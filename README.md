@@ -168,3 +168,14 @@ gsm8k/gsm8k_adastar_new_square_10/eval_log.json
 These logs contain evaluation results, and are useful for comparing performance across different methods, datasets.
 
 ## Reference
+
+If you find this work helpful, please consider citing our paper:
+```bibtex
+@inproceedings{koh2025adastar,
+  title={AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners},
+  author={Koh, Woosung and Oh, Wonbeen and Jang, Jaein and Lee, MinHyung and Kim, Hyeongjin and Kim, Ah Yeon and Kim, Joonkee and Lee, Junghyun and Kim, Taehyeon and Yun, Se-Young},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=D6PwC6Xogv}
+}
+```
