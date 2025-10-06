@@ -1,0 +1,1384 @@
+1)
+Symb question:
+[Isabelle,name] gets a job so she can save enough money to go to a concert with her [aa, 2] brothers. Her ticket costs $ [ab, 20]. Her brothers both get the children’s discount, and each of their tickets cost $ [answer, 10]. Her brothers have saved $ [ac, 5] between the [aa, 2] of them and [Isabelle,name] has saved $ [ac, 5]. If her job pays $ [ad, 3] per week, how many weeks must she work to afford the tickets?
+Symb answer:
+The tickets for both of her brothers will cost her $ [answer, 10] * [aa, 2] = $ << [answer, 10] * [aa, 2] = [ab, 20] >> [ab, 20]. To buy tickets for all of them, it will cost [Isabelle,name] $ [ab, 20] + $ [ab, 20] = $ << [ab, 20] + [ab, 20] = [ae, 40] >> [ae, 40]. Between all of them, they have saved a total of $ [ac, 5] + $ [ac, 5] = $ << [ac, 5] + [ac, 5] = [answer, 10] >> [answer, 10]. Since they have already saved $ [answer, 10], she needs to earn an additional $ [ae, 40] - $ [answer, 10] = $ << [af, 30] = [af, 30] >> [af, 30] to afford the tickets. Since she makes $ [ad, 3] per week, it will take her $ [af, 30] / ( $ [ad, 3] / week ) = << [af, 30] / ( [ad, 3] ) = [answer, 10] >> [answer, 10] weeks to save enough money for all of the tickets. #### [answer, 10]
+Conditions:
+[answer, 10] * [aa, 2]=[ab, 20]
+[ab, 20] + [ab, 20]=[ae, 40]
+[ac, 5] + [ac, 5]=[answer, 10]
+[af, 30]=[af, 30]
+[af, 30] / ( [ad, 3] )=[answer, 10]
+
+2)
+Symb question:
+In a Math competition, [Sammy,name] scored [aa, 20] points, [Gab,name] scored [ab, 2] as many as [Sammy,name]'s score, while [Cher,name] scored [ab, 2] as many as [Gab,name]'s score. If their opponent scored [ac, 85] points, how many more points do they have than their opponent?
+Symb answer:
+[Gab,name] scored [aa, 20] x [ab, 2] = << [aa, 20] * [ab, 2] = [ad, 40] >> [ad, 40] points. [Cher,name] scored [ad, 40] x [ab, 2] = << [ad, 40] * [ab, 2] = [ae, 80] >> [ae, 80] points. Their team scored [aa, 20] + [ad, 40] + [ae, 80] = << [aa, 20] + [ad, 40] + [ae, 80] = [af, 140] >> [af, 140] points. Therefore, they scored [af, 140] - [ac, 85] = << [af, 140] - [ac, 85] = [answer, 55] >> [answer, 55] more points than their opponent. #### [answer, 55]
+Conditions:
+[aa, 20] * [ab, 2]=[ad, 40]
+[ad, 40] * [ab, 2]=[ae, 80]
+[aa, 20] + [ad, 40] + [ae, 80]=[af, 140]
+[af, 140] - [ac, 85]=[answer, 55]
+
+3)
+Symb question:
+A boy squirrel gathers [aa, 6] walnuts and carries them to his burrow in the tree, adding to the [ab, 12] already there, and dropping [ac, 1] on the way. The girl squirrel brings [ad, 5] more walnuts to their burrow and eats [ae, 2]. How many walnuts are left?
+Symb answer:
+With the boy’s contribution, there are [ab, 12] + [aa, 6] = << [ab, 12] + [aa, 6] = [af, 18] >> [af, 18] walnuts. When he drops [ac, 1], now they have [af, 18] - [ac, 1] = << [af, 18] - [ac, 1] = [ag, 17] >> [ag, 17] walnuts. The girl adds to their stash, making the count [ag, 17] + [ad, 5] = << [ag, 17] + [ad, 5] = [ah, 22] >> [ah, 22] walnuts. When the girl eats [ae, 2], the final count is [ah, 22] - [ae, 2] = << [ah, 22] - [ae, 2] = [answer, 20] >> [answer, 20] walnuts. #### [answer, 20]
+Conditions:
+[ab, 12] + [aa, 6]=[af, 18]
+[af, 18] - [ac, 1]=[ag, 17]
+[ag, 17] + [ad, 5]=[ah, 22]
+[ah, 22] - [ae, 2]=[answer, 20]
+
+4)
+Symb question:
+[John,name] sells [aa, 20] woodburning for $ [ab, 15] each. The wood cost $ [ac, 100]. How much does he make in profit?
+Symb answer:
+He sells the woodburning for [aa, 20] * [ab, 15] = $<< [aa, 20] * [ab, 15] = [ad, 300] >> [ad, 300]. So he makes a profit of [ad, 300] - [ac, 100] = $<< [ad, 300] - [ac, 100] = [answer, 200] >> [answer, 200]. #### [answer, 200]
+Conditions:
+[aa, 20] * [ab, 15]=[ad, 300]
+[ad, 300] - [ac, 100]=[answer, 200]
+
+5)
+Symb question:
+[Claire,name] is scheduling her day. She has [aa, 4] hours to clean and [ab, 2] hours to cook, then divides the rest of her working day equally between crafting and tailoring. She then sleeps [ac, 8] hours. If all of this takes place within [ad, 1] day, how many hours did [Claire,name] spend crafting?
+Symb answer:
+We know [Claire,name] has spent a total of [ae, 24] hours in a day - [aa, 4] hours cleaning - [ab, 2] hours cooking - [ac, 8] hours sleeping = [af, 10] hours crafting and tailoring. Since she split her time equally, she must have spent [af, 10] hours * [ag, 0.5] = << [af, 10] * [ag, 0.5] = [answer, 5] >> [answer, 5] hours crafting. #### [answer, 5]
+Conditions:
+[af, 10] * [ag, 0.5]=[answer, 5]
+
+6)
+Symb question:
+[Xena,name] is trying to outrun a dragon to get to the safety of a cave it’s too big to fit into. [Xena,name] has a [aa, 600] foot head start, but the dragon can burn her if it gets within [ab, 120] feet of her. If [Xena,name] runs [ac, 15] feet per second and the dragon flies [ad, 30] feet per second, how many seconds does [Xena,name] have to get to the cave?
+Symb answer:
+First find the size of the gap the dragon needs to close to burn [Xena,name]: [aa, 600] ft - [ab, 120] ft = << [aa, 600] - [ab, 120] = [ae, 480] >> [ae, 480] ft. Then find how many feet closer the dragon gets each second by subtracting [Xena,name]'s speed from the dragon's speed: [ad, 30] ft/sec - [ac, 15] ft/sec = << [ad, 30] - [ac, 15] = [ac, 15] >> [ac, 15] ft/sec. Then divide the distance by the speed difference to find how many seconds it takes for the dragon to get close enough to burn [Xena,name]: [ae, 480] ft / [ac, 15] ft/sec = << [ae, 480] / [ac, 15] = [answer, 32] >> [answer, 32] sec. #### [answer, 32]
+Conditions:
+[aa, 600] - [ab, 120]=[ae, 480]
+[ad, 30] - [ac, 15]=[ac, 15]
+[ae, 480] / [ac, 15]=[answer, 32]
+
+7)
+Symb question:
+The government gives the bottom [aa, 20] % of people a $ [ab, 2000] stimulus. They have found that this kind of stimulus returns [ac, 5] times as much money to the government, in terms of tax revenue, as it cost. The city has [ad, 1000] people in it. What was the government profit from this project?
+Symb answer:
+They gave money to [ad, 1000] * . [ae, 2] = << [ad, 1000] * . [ae, 2] = [af, 200] >> [af, 200] people. It cost [af, 200] * [ab, 2000] = $<< [af, 200] * [ab, 2000] = [ag, 400000] >> [ag, 400000]. There was a [ac, 5] to [ah, 1] return so the government collected [ac, 5] * [ag, 400000] = $<< [ac, 5] * [ag, 400000] = [ai, 2000000] >> [ai, 2000000]. That means the profit was [ai, 2000000] - [ag, 400000] = $<< [ai, 2000000] - [ag, 400000] = [answer, 1600000] >> [answer, 1600000]. #### [answer, 1600000]
+Conditions:
+[ad, 1000] * . [ae, 2]=[af, 200]
+[af, 200] * [ab, 2000]=[ag, 400000]
+[ac, 5] * [ag, 400000]=[ai, 2000000]
+[ai, 2000000] - [ag, 400000]=[answer, 1600000]
+
+8)
+Symb question:
+It rained [aa, 2] as much on Tuesday as Monday. On Monday it rained [ab, 3] inches more than Sunday. It rained [ac, 4] inches on Sunday. How much total rainfall was there over the [ab, 3] days?
+Symb answer:
+It rained [ab, 3] + [ac, 4] = << [ab, 3] + [ac, 4] = [ad, 7] >> [ad, 7] inches on Monday. So it rained [ad, 7] * [aa, 2] = << [ad, 7] * [aa, 2] = [ae, 14] >> [ae, 14] inches on Tuesday. That means the total rainfall was [ad, 7] + [ae, 14] + [ac, 4] = << [ad, 7] + [ae, 14] + [ac, 4] = [answer, 25] >> [answer, 25] inches. #### [answer, 25]
+Conditions:
+[ab, 3] + [ac, 4]=[ad, 7]
+[ad, 7] * [aa, 2]=[ae, 14]
+[ad, 7] + [ae, 14] + [ac, 4]=[answer, 25]
+
+9)
+Symb question:
+[Julieta,name] went to the store to buy a backpack and [aa, 3] ring-binders for her school supplies. She knew the backpack was $ [ab, 50], and each ring-binder cost was $ [ac, 20]. However, at the store, she found out that the price of a back had increased by $ [ad, 5], and the price of a ring-binder had reduced by $ [ae, 2]. Calculate the total amount of money [Julieta,name] spent at the store.
+Symb answer:
+Initially, a backpack cost was $ [ab, 50]; when it increased by $ [ad, 5], the price became $ [ab, 50] + [ad, 5] = $ << [ab, 50] + [ad, 5] = [af, 55] >> [af, 55]. The price of a ring-binder $ [ac, 20], when it reduced by $ [ae, 2], the price became $ [ac, 20] - [ae, 2] = $ << [ac, 20] - [ae, 2] = [ag, 18] >> [ag, 18]. If she wanted to buy [aa, 3] ring-binders, she spent $ [ag, 18] * [aa, 3] = $ << [ag, 18] * [aa, 3] = [ah, 54] >> [ah, 54]. In total, [Julieta,name] spent $ [af, 55] + [ah, 54] = $ << [af, 55] + [ah, 54] = [answer, 109] >> [answer, 109]. #### [answer, 109]
+Conditions:
+[ab, 50] + [ad, 5]=[af, 55]
+[ac, 20] - [ae, 2]=[ag, 18]
+[ag, 18] * [aa, 3]=[ah, 54]
+[af, 55] + [ah, 54]=[answer, 109]
+
+10)
+Symb question:
+[Mike,name] is building a bridge out of LEGO blocks. To be successful he needs at least [aa, 40] bricks of type A, and half that many of type B. In total, he needs to use [ab, 150] bricks. How many bricks of other types than mentioned is he going to use?
+Symb answer:
+[Mike,name] is using [aa, 40] blocks / [ac, 2] = << [aa, 40] / [ac, 2] = [ad, 20] >> [ad, 20] blocks of type B. He uses in total [aa, 40] blocks + [ad, 20] blocks = << [aa, 40] + [ad, 20] = [ae, 60] >> [ae, 60] blocks of type A and B. So he is going to use [ab, 150] blocks - [ae, 60] blocks = << [ab, 150] - [ae, 60] = [answer, 90] >> [answer, 90] blocks of other types. #### [answer, 90]
+Conditions:
+[aa, 40] / [ac, 2]=[ad, 20]
+[aa, 40] + [ad, 20]=[ae, 60]
+[ab, 150] - [ae, 60]=[answer, 90]
+
+11)
+Symb question:
+Miss [Smith,name] is teaching second period English and is shocked at how small the class seems. There are [aa, 6] tables in the classroom with [ab, 3] students currently sitting at each table. [Sally,name] said [ab, 3] girls went to the bathroom, and [ab, 3] times more students went to the canteen. [Elliott,name] said that [ac, 2] groups of students have recently been added to their class, and each group has [ad, 4] students in it. None of these students are in the class right now. [Lucas,name] pointed out that a few foreign exchange students have joined the class; [ab, 3] from [Germany,gpe], [ab, 3] from [France,gpe], and [ab, 3] from [Norway,gpe]. These students are also missing. How many students are supposed to be in the class?
+Symb answer:
+There are currently [ab, 3] * [aa, 6] = << [ab, 3] * [aa, 6] = [ae, 18] >> [ae, 18] students sitting in the classroom. There were [ab, 3] * [ab, 3] = << [ab, 3] * [ab, 3] = [af, 9] >> [af, 9] students who went to the canteen. [Sally,name] has therefore noticed [ab, 3] + [af, 9] = << [ab, 3] + [af, 9] = [ag, 12] >> [ag, 12] students missing from the class. [Elliott,name] said that [ac, 2] groups of students have joined the class, so there are another [ac, 2] * [ad, 4] = << [ac, 2] * [ad, 4] = [ah, 8] >> [ah, 8] students who are not in the classroom. Lucas said that there are [ab, 3] + [ab, 3] + [ab, 3] = << [ab, 3] + [ab, 3] + [ab, 3] = [af, 9] >> [af, 9] foreign exchange students who are not in the classroom. Therefore, there should be [ae, 18] + [ag, 12] + [ah, 8] + [af, 9] = << [ae, 18] + [ag, 12] + [ah, 8] + [af, 9] = [answer, 47] >> [answer, 47] students. #### [answer, 47]
+Conditions:
+[ab, 3] * [aa, 6]=[ae, 18]
+[ab, 3] * [ab, 3]=[af, 9]
+[ab, 3] + [af, 9]=[ag, 12]
+[ac, 2] * [ad, 4]=[ah, 8]
+[ab, 3] + [ab, 3] + [ab, 3]=[af, 9]
+[ae, 18] + [ag, 12] + [ah, 8] + [af, 9]=[answer, 47]
+
+12)
+Symb question:
+[Jim,name] has [aa, 2] rows of [ab, 4] trees to start. When he turns [ac, 10] he decides to plant a new row of trees every year on his birthday. On his [ad, 15]th birthday after he doubles the number of trees he has. How many trees does he have?
+Symb answer:
+He started with [aa, 2] * [ab, 4] = << [aa, 2] * [ab, 4] = [ae, 8] >> [ae, 8] trees. He plants trees for [ad, 15] - [ac, 10] = << [ad, 15] - [ac, 10] = [af, 5] >> [af, 5] years. So he planted [af, 5] * [ab, 4] = << [af, 5] * [ab, 4] = [ag, 20] >> [ag, 20] trees. So he had [ag, 20] + [ae, 8] = << [ag, 20] + [ae, 8] = [ah, 28] >> [ah, 28] trees. After doubling them he had [ah, 28] * [aa, 2] = << [ah, 28] * [aa, 2] = [answer, 56] >> [answer, 56] trees. #### [answer, 56]
+Conditions:
+[aa, 2] * [ab, 4]=[ae, 8]
+[ad, 15] - [ac, 10]=[af, 5]
+[af, 5] * [ab, 4]=[ag, 20]
+[ag, 20] + [ae, 8]=[ah, 28]
+[ah, 28] * [aa, 2]=[answer, 56]
+
+13)
+Symb question:
+[Yeon,name] has [aa, 3] times as many watermelon seeds as [Gwi,name]. [Gwi,name] has [ab, 40] more watermelon seeds than [Bom,name]. If [Bom,name] has [ac, 300] watermelon seeds, how many seeds do they have together?
+Symb answer:
+If [Bom,name] has [ac, 300] seeds, then [Gwi,name] has [ac, 300] + [ab, 40] = << [ac, 300] + [ab, 40] = [ad, 340] >> [ad, 340] watermelon seeds. Together, [Bom,name] and [Gwi,name] have [ad, 340] + [ac, 300] = << [ad, 340] + [ac, 300] = [ae, 640] >> [ae, 640] melon seeds. [Yeon,name]'s number of watermelon seeds is [aa, 3] times as many as the number that [Gwi,name] has, meaning [Yeon,name] has [aa, 3] * [ad, 340] = << [aa, 3] * [ad, 340] = [af, 1020] >> [af, 1020] watermelon seeds. Together, the [aa, 3] friends have [af, 1020] + [ae, 640] = << [af, 1020] + [ae, 640] = [answer, 1660] >> [answer, 1660] watermelon seeds. #### [answer, 1660]
+Conditions:
+[ac, 300] + [ab, 40]=[ad, 340]
+[ad, 340] + [ac, 300]=[ae, 640]
+[aa, 3] * [ad, 340]=[af, 1020]
+[af, 1020] + [ae, 640]=[answer, 1660]
+
+14)
+Symb question:
+[Hadley,name] wore his cowboy boots everywhere. He walked [aa, 2] miles to the grocery store in his boots. Then he walked [ab, 1] less than [aa, 2] miles to the pet store in his boots. Then, he walked [ab, 1] less than [ac, 4] miles back home in his boots. How far, in miles, did [Hadley,name] walk in his boots?
+Symb answer:
+After he walked [aa, 2] miles to the grocery store, he walked [ab, 1] less than [aa, 2] miles to the pet store, adding [aa, 2] - [ab, 1] = [ab, 1] mile to his journey. To complete his journey, he walked [ab, 1] less than [ac, 4] miles to return home, adding [ac, 4] - [ab, 1] = [ad, 3] miles to his journey. In total, [Hadley,name] walked [aa, 2] + [ab, 1] + [ad, 3] = << [aa, 2] + [ab, 1] + [ad, 3] = [answer, 6] >> [answer, 6] miles. #### [answer, 6]
+Conditions:
+[aa, 2] + [ab, 1] + [ad, 3]=[answer, 6]
+
+15)
+Symb question:
+[Winston,name] has [aa, 14] quarters. He then spends half a dollar on candy. How many cents does he have left?
+Symb answer:
+[Winston,name] has [ab, 350] cents because [aa, 14] x [ac, 25] = << [aa, 14] * [ac, 25] = [ab, 350] >> [ab, 350]. He spends [ad, 50] cents because $ [ae, 1] / [af, 2] = [ad, 50] cents. He has [answer, 300] cents left at the end. #### [answer, 300]
+Conditions:
+[aa, 14] * [ac, 25]=[ab, 350]
+
+16)
+Symb question:
+[Jack,name] needs to put his shoes on, then help both his toddlers tie their shoes. If it takes [aa, 4] minutes for [Jack,name] to put his shoes on, and [ab, 3] minutes longer to help each toddler with their shoes, how long does it take him to get ready?
+Symb answer:
+First figure out how long it takes to help [ac, 1] toddler: [aa, 4] minutes + [ab, 3] minutes = << [aa, 4] + [ab, 3] = [ad, 7] >> [ad, 7] minutes. Then multiply the time per toddler by the number of toddlers: [ad, 7] minutes/toddler * [ae, 2] toddlers = << [ad, 7] * [ae, 2] = [af, 14] >> [af, 14] minutes. Now add the time spent helping the toddlers to the time [Jack,name] spends on his own shoes: [af, 14] minutes + [aa, 4] minutes = << [af, 14] + [aa, 4] = [answer, 18] >> [answer, 18] minutes. #### [answer, 18]
+Conditions:
+[aa, 4] + [ab, 3]=[ad, 7]
+[ad, 7] * [ae, 2]=[af, 14]
+[af, 14] + [aa, 4]=[answer, 18]
+
+17)
+Symb question:
+[Marina,name] had [aa, 4.5] pounds of fudge. [Lazlo,name] had [ab, 6] ounces less than [ac, 4] pounds of fudge. How many more ounces of fudge did [Marina,name] have than [Lazlo,name]?
+Symb answer:
+Marina = [aa, 4.5] pounds = [ad, 72] ounces.
+Lazlo = [ac, 4] pounds - [ab, 6] ounces = [ae, 58] ounces.
+[ad, 72] - [ae, 58] = << [ad, 72] - [ae, 58] = [answer, 14] >> [answer, 14] ounces.
+[Marina,name] had [answer, 14] more ounces of fudge than [Lazlo,name]. #### [answer, 14]
+Conditions:
+[ad, 72] - [ae, 58]=[answer, 14]
+
+18)
+Symb question:
+From his apartment, [Kona,name] drives [aa, 9] miles to the bakery. From there, he drives [ab, 24] miles to his grandmother’s house. From her house, he drives [ac, 27] miles straight to his apartment. How many additional miles did [Kona,name] drive round trip to the bakery stop, compared to a round trip without the bakery stop?
+Symb answer:
+With the bakery stop, [Kona,name] drove a total of [aa, 9] + [ab, 24] + [ac, 27] = << [aa, 9] + [ab, 24] + [ac, 27] = [ad, 60] >> [ad, 60] miles. Without the bakery stop, [Kona,name] drove a total of [ac, 27] + [ac, 27] = << [ac, 27] + [ac, 27] = [ae, 54] >> [ae, 54] miles. With the bakery stop, [Kona,name] drives an additional [ad, 60] - [ae, 54] = << [ad, 60] - [ae, 54] = [answer, 6] >> [answer, 6] miles. #### [answer, 6]
+Conditions:
+[aa, 9] + [ab, 24] + [ac, 27]=[ad, 60]
+[ac, 27] + [ac, 27]=[ae, 54]
+[ad, 60] - [ae, 54]=[answer, 6]
+
+19)
+Symb question:
+[Page,name] collects fancy shoes and has [aa, 80] pairs in her closet. She decides to donate [ab, 30] % of her collection that she no longer wears. After dropping off her donation, she treats herself and buys [ac, 6] more pairs to add to her collection. How many shoes does she have now?
+Symb answer:
+She donates [ab, 30] % of her [aa, 80] pairs of shoes so that’s [ab, 30] * [aa, 80] = << [ab, 30] * . [ad, 1] * [aa, 80] = [ae, 24] >> [ae, 24] pair of shoes she donates. She had [aa, 80] shoes in her collection and donates [ae, 24] so that leaves [aa, 80] - [ae, 24] = << [aa, 80] - [ae, 24] = [af, 56] >> [af, 56] pairs of shoes. She now has [af, 56] pairs of shoes and buys [ac, 6] more pairs so her collection is now [af, 56] + [ac, 6] = << [af, 56] + [ac, 6] = [answer, 62] >> [answer, 62] pairs of shoes. #### [answer, 62]
+Conditions:
+[ab, 30] * . [ad, 1] * [aa, 80]=[ae, 24]
+[aa, 80] - [ae, 24]=[af, 56]
+[af, 56] + [ac, 6]=[answer, 62]
+
+20)
+Symb question:
+Officer [Hopps,name] has to give out [aa, 200] tickets in May. The first [ab, 15] days he averages [ac, 8] tickets a day. How many does he have to average each day for the rest of the month to reach his required goal?
+Symb answer:
+He has given out [ad, 120] tickets because [ab, 15] x [ac, 8] = << [ab, 15] * [ac, 8] = [ad, 120] >> [ad, 120]. He has [ae, 16] days left to hand out tickets because [af, 31] - [ab, 15] = << [af, 31] - [ab, 15] = [ae, 16] >> [ae, 16]. He has to give out [ag, 80] more because [aa, 200] - [ad, 120] = << [aa, 200] - [ad, 120] = [ag, 80] >> [ag, 80]. He has to give out [answer, 5] a day because [ag, 80] / [ae, 16] = << [ag, 80] / [ae, 16] = [answer, 5] >> [answer, 5]. #### [answer, 5]
+Conditions:
+[ab, 15] * [ac, 8]=[ad, 120]
+[af, 31] - [ab, 15]=[ae, 16]
+[aa, 200] - [ad, 120]=[ag, 80]
+[ag, 80] / [ae, 16]=[answer, 5]
+
+21)
+Symb question:
+[Porter,name] earns $ [aa, 8] per day and works [ab, 5] times a week. His manager is asking him to work an extra day that promises him an extra [ac, 50] percent on top of his daily rate. How much money will he earn after a month if he renders overtime every week?
+Symb answer:
+[Porter,name]'s weekly earning is $ [aa, 8] x [ab, 5] = $ << [aa, 8] * [ab, 5] = [ad, 40] >> [ad, 40]. [Porter,name]'s monthly earning is $ [ad, 40] x [ae, 4] = $ << [ad, 40] * [ae, 4] = [af, 160] >> [af, 160]. The extra amount he will earn when he works on his overtime is $ [aa, 8] x [ac, 50] / [ag, 100] = $ << [aa, 8] * [ac, 50] / [ag, 100] = [ae, 4] >> [ae, 4]. So the amount he will earn on his overtime is $ [aa, 8] + $ [ae, 4] = $ << [aa, 8] + [ae, 4] = [ah, 12] >> [ah, 12]. Since he will render overtime once every week, the total overtime pay he will earn in a month is $ [ah, 12] x [ae, 4] = $ << [ah, 12] * [ae, 4] = [ai, 48] >> [ai, 48]. Therefore the total money he will earn in a week is $ [af, 160] + [ai, 48] = $ << [af, 160] + [ai, 48] = [answer, 208] >> [answer, 208]. #### [answer, 208]
+Conditions:
+[aa, 8] * [ab, 5]=[ad, 40]
+[ad, 40] * [ae, 4]=[af, 160]
+[aa, 8] * [ac, 50] / [ag, 100]=[ae, 4]
+[aa, 8] + [ae, 4]=[ah, 12]
+[ah, 12] * [ae, 4]=[ai, 48]
+[af, 160] + [ai, 48]=[answer, 208]
+
+22)
+Symb question:
+The school is organizing a trip to the museum. [aa, 4] buses were hired to take the children and teachers to their destination. The second bus has [ab, 2] the number of people on it as the first bus. The third bus has [ac, 6] fewer people than the second bus. The fourth bus has [ad, 9] more people than the first bus. If the first bus has [ae, 12] people, how many people are going to the museum in total?
+Symb answer:
+The second bus is carrying [ae, 12] * [ab, 2] = << [ae, 12] * [ab, 2] = [af, 24] >> [af, 24] people. The third bus has [af, 24] – [ac, 6] = << [af, 24] - [ac, 6] = [ag, 18] >> [ag, 18] people. The fourth bus has [ae, 12] + [ad, 9] = << [ae, 12] + [ad, 9] = [ah, 21] >> [ah, 21] people on it. In total, there are [ae, 12] + [af, 24] + [ag, 18] + [ah, 21] = << [ae, 12] + [af, 24] + [ag, 18] + [ah, 21] = [answer, 75] >> [answer, 75] people on the buses. #### [answer, 75]
+Conditions:
+[ae, 12] * [ab, 2]=[af, 24]
+[af, 24] - [ac, 6]=[ag, 18]
+[ae, 12] + [ad, 9]=[ah, 21]
+[ae, 12] + [af, 24] + [ag, 18] + [ah, 21]=[answer, 75]
+
+23)
+Symb question:
+[Tom,name] swims for [aa, 2] hours at a speed of [aa, 2] miles per hour. He then runs for half the time at [ab, 4] times the speed. How many miles did he cover?
+Symb answer:
+He swam [aa, 2] * [aa, 2] = << [aa, 2] * [aa, 2] = [ab, 4] >> [ab, 4] miles. He ran for [aa, 2] / [aa, 2] = << [aa, 2] / [aa, 2] = [ac, 1] >> [ac, 1] hour. His running speed was [aa, 2] * [ab, 4] = << [aa, 2] * [ab, 4] = [ad, 8] >> [ad, 8] mph. So he ran [ad, 8] * [ac, 1] = << [ad, 8] * [ac, 1] = [ad, 8] >> [ad, 8] miles. So his total distance was [ad, 8] + [ab, 4] = << [ad, 8] + [ab, 4] = [answer, 12] >> [answer, 12] miles. #### [answer, 12]
+Conditions:
+[aa, 2] * [aa, 2]=[ab, 4]
+[aa, 2] / [aa, 2]=[ac, 1]
+[aa, 2] * [ab, 4]=[ad, 8]
+[ad, 8] * [ac, 1]=[ad, 8]
+[ad, 8] + [ab, 4]=[answer, 12]
+
+24)
+Symb question:
+[Beckett,name] is [aa, 12] and is [ab, 3] years younger than [Olaf,name], while [Shannen,name] is [ac, 2] years younger than [Olaf,name]. If [Jack,name] is [ad, 5] more than [ac, 2] as old as Shannen, what is the sum of the ages of all [ae, 4] people?
+Symb answer:
+[Olaf,name] is [aa, 12] years + [ab, 3] years = << [aa, 12] + [ab, 3] = [af, 15] >> [af, 15] years old. [Shannen,name] is [af, 15] years old - [ac, 2] years = << [af, 15] - [ac, 2] = [ag, 13] >> [ag, 13] years old. [Jack,name] is [ad, 5] years + ([ac, 2] * [ag, 13] years) = << [ad, 5] + ( [ac, 2] * [ag, 13] ) = [ah, 31] >> [ah, 31] years old. The sum of all of their ages is [aa, 12] + [af, 15] + [ag, 13] + [ah, 31] = << [aa, 12] + [af, 15] + [ag, 13] + [ah, 31] = [answer, 71] >> [answer, 71] years old. #### [answer, 71]
+Conditions:
+[aa, 12] + [ab, 3]=[af, 15]
+[af, 15] - [ac, 2]=[ag, 13]
+[ad, 5] + ( [ac, 2] * [ag, 13] )=[ah, 31]
+[aa, 12] + [af, 15] + [ag, 13] + [ah, 31]=[answer, 71]
+
+25)
+Symb question:
+Marc bought [aa, 5] model cars that cost $ [ab, 20] each and [aa, 5] bottles of paint that cost $ [ac, 10] each. He also bought [aa, 5] paintbrushes that cost $ [ad, 2] each. How much did [Marc,name] spend in total?
+Symb answer:
+The [aa, 5] model cars cost $ [ab, 20] x [aa, 5] = $ << [ab, 20] * [aa, 5] = [ae, 100] >> [ae, 100]. The [aa, 5] bottles of paint cost $ [ac, 10] x [aa, 5] = $ << [ac, 10] * [aa, 5] = [af, 50] >> [af, 50]. The [aa, 5] paint brushes cost $ [ad, 2] x [aa, 5] = $ << [ad, 2] * [aa, 5] = [ac, 10] >> [ac, 10]. Thus, [Marc,name] spent $ [ae, 100] + $ [af, 50] + $ [ac, 10] = $ << [ae, 100] + [af, 50] + [ac, 10] = [answer, 160] >> [answer, 160] in total. #### [answer, 160]
+Conditions:
+[ab, 20] * [aa, 5]=[ae, 100]
+[ac, 10] * [aa, 5]=[af, 50]
+[ad, 2] * [aa, 5]=[ac, 10]
+[ae, 100] + [af, 50] + [ac, 10]=[answer, 160]
+
+26)
+Symb question:
+How many right triangles with a height of [answer, 2] inches and a width of [answer, 2] inches could fit inside a square with [answer, 2]-inch sides?
+Symb answer:
+A triangle with a height of [answer, 2] inches and width of [answer, 2] inches has an area of [answer, 2] square inches because ( [aa, 1] / [answer, 2] ) x [answer, 2] x [answer, 2] = << ( [aa, 1] / [answer, 2] ) * [answer, 2] * [answer, 2] = [answer, 2] >> [answer, 2]. The square has an area of [ab, 4] square inches because [answer, 2] x [answer, 2] = << [answer, 2] * [answer, 2] = [ab, 4] >> [ab, 4]. [answer, 2] triangles would fit because [ab, 4] / [answer, 2] = << [ab, 4] / [answer, 2] = [answer, 2] >> [answer, 2]. #### [answer, 2]
+Conditions:
+( [aa, 1] / [answer, 2] ) * [answer, 2] * [answer, 2]=[answer, 2]
+[answer, 2] * [answer, 2]=[ab, 4]
+[ab, 4] / [answer, 2]=[answer, 2]
+
+27)
+Symb question:
+[Sara,name] and [Joe,name] have a combined height of [aa, 120] inches. [Joe,name] is [ab, 6] inches more than [ac, 2] [Sara,name]'s height. How tall is [Joe,name]?
+Symb answer:
+Let x be [Sara,name]'s height in inches. [Joe,name] is [ab, 6] + [ac, 2] x inches tall. [aa, 120] = x + ( [ab, 6] + [ac, 2] x ). [aa, 120] = [ad, 3] x + [ab, 6]. [ae, 114] = [ad, 3] x, x = << [af, 38] = [af, 38] >> [af, 38] inches. [Joe,name] is [ab, 6] + [ac, 2]( [af, 38] ) = [answer, 82] inches. #### [answer, 82]
+Conditions:
+[af, 38]=[af, 38]
+
+28)
+Symb question:
+[Charles,name] is jogging while listening to his favorite album. He runs at [aa, 6] MPH when he’s got music on and [ab, 4] MPH when he doesn’t. His album is [ac, 40] minutes long. How many minutes will it take him to jog [aa, 6] miles?
+Symb answer:
+He runs at . [ad, 1] miles per minute because [aa, 6] / [ae, 60] = << [aa, 6] / [ae, 60] = . [ad, 1] >> . [ad, 1]. While the album is playing he can run [ab, 4] miles because [ac, 40] x . [ad, 1] = << [ac, 40] * . [ad, 1] = [ab, 4] >> [ab, 4]. He has to run [af, 2] miles without the album because [aa, 6] - [ab, 4] = << [aa, 6] - [ab, 4] = [af, 2] >> [af, 2]. Without music he runs [ad, 1] / [ag, 15] miles per minute because [ab, 4] / [ae, 60] = [ad, 1] / [ag, 15]. He will run the remaining [af, 2] miles in [ah, 30] minutes because [af, 2] / ( [ad, 1] / [ag, 15] ) = << [af, 2] / ( [ad, 1] / [ag, 15] ) = [ah, 30] >> [ah, 30]. It will take him [answer, 70] minutes in total because [ac, 40] + [ah, 30] = << [ac, 40] + [ah, 30] = [answer, 70] >> [answer, 70]. #### [answer, 70]
+Conditions:
+[aa, 6] / [ae, 60]=. [ad, 1]
+[ac, 40] * . [ad, 1]=[ab, 4]
+[aa, 6] - [ab, 4]=[af, 2]
+[af, 2] / ( [ad, 1] / [ag, 15] )=[ah, 30]
+[ac, 40] + [ah, 30]=[answer, 70]
+
+29)
+Symb question:
+[Elida,name] has [aa, 5] letters while [Adrianna,name] has [ab, 2] less than [ab, 2] the number of letters [Elida,name] has. What’s [ac, 10] times the average number of letters in both names?
+Symb answer:
+[ab, 2] the number of letters [Elida,name] has is [ab, 2] * [aa, 5] = << [ab, 2] * [aa, 5] = [ac, 10] >> [ac, 10]. [ab, 2] less than [ab, 2] the number of letters [Elida,name] has is [ac, 10] - [ab, 2] = [ad, 8]. The total number of letters in both names is [ad, 8] + [aa, 5] = << [ad, 8] + [aa, 5] = [ae, 13] >> [ae, 13]. The average number of letters in the names [Elida,name] and [Adrianna,name] is [ae, 13] / [ab, 2] = << [ae, 13] / [ab, 2] = [af, 6.5] >> [af, 6.5]. [ac, 10] times the average number of letters in both names is [ac, 10] * [af, 6.5] = << [ac, 10] * [af, 6.5] = [answer, 65] >> [answer, 65]. #### [answer, 65]
+Conditions:
+[ab, 2] * [aa, 5]=[ac, 10]
+[ad, 8] + [aa, 5]=[ae, 13]
+[ae, 13] / [ab, 2]=[af, 6.5]
+[ac, 10] * [af, 6.5]=[answer, 65]
+
+30)
+Symb question:
+[Haleigh,name] needs to buy leggings for her pet animals. She has [aa, 4] dogs and [ab, 3] cats. How many pairs of leggings does she need?
+Symb answer:
+The dogs have [ac, 16] total legs because [aa, 4] times [aa, 4] equals << [aa, 4] * [aa, 4] = [ac, 16] >> [ac, 16]. The cats have [ad, 12] total legs because [aa, 4] times [ab, 3] equals << [aa, 4] * [ab, 3] = [ad, 12] >> [ad, 12]. There are [ae, 28] total legs because [ac, 16] plus [ad, 12] equals << [ac, 16] + [ad, 12] = [ae, 28] >> [ae, 28]. She needs to buy [answer, 14] pairs because [ae, 28] divided by [af, 2] equals << [ae, 28] / [af, 2] = [answer, 14] >> [answer, 14]. #### [answer, 14]
+Conditions:
+[aa, 4] * [aa, 4]=[ac, 16]
+[aa, 4] * [ab, 3]=[ad, 12]
+[ac, 16] + [ad, 12]=[ae, 28]
+[ae, 28] / [af, 2]=[answer, 14]
+
+31)
+Symb question:
+In a car dealership, [Fiona,name] worked for [aa, 40] hours a week, [John,name] for [ab, 30] hours, and [Jeremy,name] for [ac, 25] hours. If the employees are paid $ [ad, 20] per hour, how much money does their boss spend paying all of them every month?
+Symb answer:
+[Fiona,name] earns [aa, 40] hours/week * $ [ad, 20]/hour = $ << [aa, 40] * [ad, 20] = [ae, 800] >> [ae, 800] per week. So she earns $ [ae, 800] per week * [af, 4] weeks/month = $ [ag, 3200] per month. [John,name] earns [ab, 30] hours/week * $ [ad, 20]/hour = $ << [ab, 30] * [ad, 20] = [ah, 600] >> [ah, 600] per week. So he earns $ [ah, 600] per week * [af, 4] weeks/month = $ << [ah, 600] * [af, 4] = [ai, 2400] >> [ai, 2400] per month. [Jeremy,name] earns [ac, 25] hours * $ [ad, 20]/hour = $ << [ac, 25] * [ad, 20] = [aj, 500] >> [aj, 500] per week. So he earns $ [aj, 500] per week * [af, 4] weeks/month = $ [ak, 2000] per month. Overall their boss has to spend $ [ag, 3200] per month + $ [ai, 2400] per month + $ [ak, 2000] per month = $ << [ag, 3200] + [ai, 2400] + [ak, 2000] = [answer, 7600] >> [answer, 7600] per month. #### [answer, 7600]
+Conditions:
+[aa, 40] * [ad, 20]=[ae, 800]
+[ab, 30] * [ad, 20]=[ah, 600]
+[ah, 600] * [af, 4]=[ai, 2400]
+[ac, 25] * [ad, 20]=[aj, 500]
+[ag, 3200] + [ai, 2400] + [ak, 2000]=[answer, 7600]
+
+32)
+Symb question:
+[Mark,name] is baking bread. He has to let it rise for [aa, 120] minutes [ab, 2]. He also needs to spend [ac, 10] minutes kneading it and [ad, 30] minutes baking it. How many minutes does it take [Mark,name] to finish making the bread?
+Symb answer:
+First find the total rise time: [aa, 120] minutes * [ab, 2] = << [aa, 120] * [ab, 2] = [ae, 240] >> [ae, 240] minutes. Then add the rise time to the baking and kneading time: [ae, 240] minutes + [ac, 10] minutes + [ad, 30] minutes = << [ae, 240] + [ac, 10] + [ad, 30] = [answer, 280] >> [answer, 280] minutes. #### [answer, 280]
+Conditions:
+[aa, 120] * [ab, 2]=[ae, 240]
+[ae, 240] + [ac, 10] + [ad, 30]=[answer, 280]
+
+33)
+Symb question:
+[Kenneth,name] spent [aa, 10] % of his earnings this week on a new joystick. If he is left with $ [ab, 405], how much were his earnings?
+Symb answer:
+Since [Kenneth,name] spent [aa, 10] %, then he is left with [ac, 100] % - [aa, 10] % = [ad, 90] % of his earnings. Since [ad, 90] % of his earnings is worth $ [ab, 405], then [ae, 1] % of his earnings is $ [ab, 405] / [ad, 90] = $ << [ab, 405] / [ad, 90] = [af, 4.50] >> [af, 4.50]. Hence, [Kenneth,name]'s earnings is $ [af, 4.50] x [ac, 100] = $ << [answer, 450] = [answer, 450] >> [answer, 450]. #### [answer, 450]
+Conditions:
+[ab, 405] / [ad, 90]=[af, 4.50]
+[answer, 450]=[answer, 450]
+
+34)
+Symb question:
+[Matt,name] has a peanut plantation that is [aa, 500] feet by [aa, 500] feet. [ab, 1] square foot of peanuts can make [ac, 50] grams of peanuts. If it takes [ad, 20] grams of peanuts to make [ae, 5] grams of peanut butter and [ab, 1] kg of peanut butter sells for $ [af, 10] how much does he make from his plantation?
+Symb answer:
+His plantation is [aa, 500] * [aa, 500] = << [aa, 500] * [aa, 500] = [ag, 250000] >> [ag, 250000] square feet. That means he gets [ag, 250000] * [ac, 50] = << [ag, 250000] * [ac, 50] = [ah, 12500000] >> [ah, 12500000] grams of peanuts. So he makes [ah, 12500000] * [ae, 5] / [ad, 20] = << [ah, 12500000] * [ae, 5] / [ad, 20] = [ai, 3125000] >> [ai, 3125000] grams of peanut butter. So he has [ai, 3125000] / [aj, 1000] = << [ai, 3125000] / [aj, 1000] = [ak, 3125] >> [ak, 3125] kg of peanut butter. That means it sells for [ak, 3125] * [af, 10] = $<< [ak, 3125] * [af, 10] = [answer, 31250] >> [answer, 31250]. #### [answer, 31250]
+Conditions:
+[aa, 500] * [aa, 500]=[ag, 250000]
+[ag, 250000] * [ac, 50]=[ah, 12500000]
+[ah, 12500000] * [ae, 5] / [ad, 20]=[ai, 3125000]
+[ai, 3125000] / [aj, 1000]=[ak, 3125]
+[ak, 3125] * [af, 10]=[answer, 31250]
+
+35)
+Symb question:
+[Marcia,name] wants to buy some fruit. Apples cost $ [answer, 2], bananas cost $ [aa, 1], and oranges cost $ [ab, 3]. If [Marcia,name] buys [ac, 12] apples, [ad, 4] bananas and [ad, 4] oranges, what is the average cost of each piece of fruit in dollars?
+Symb answer:
+Find the price of each group of fruit: [ac, 12] apples * $ [answer, 2] per apple = $ << [ac, 12] * [answer, 2] = [ae, 24] >> [ae, 24]. [ad, 4] bananas * $ [aa, 1] per banana = $ << [ad, 4] * [aa, 1] = [ad, 4] >> [ad, 4]. [ab, 3] oranges * $ [ad, 4] per orange = $ << [ab, 3] * [ad, 4] = [ac, 12] >> [ac, 12]. $ [ae, 24] + $ [ad, 4] + $ [ac, 12] = $ << [ae, 24] + [ad, 4] + [ac, 12] = [af, 40] >> [af, 40] in total that was spent on [ac, 12] + [ad, 4] + [ad, 4] = << [ac, 12] + [ad, 4] + [ad, 4] = [ag, 20] >> [ag, 20] total fruits bought. $ [af, 40] / [ag, 20] fruits = $ << [af, 40] / [ag, 20] = [answer, 2] >> [answer, 2] per fruit. #### [answer, 2]
+Conditions:
+[ac, 12] * [answer, 2]=[ae, 24]
+[ad, 4] * [aa, 1]=[ad, 4]
+[ab, 3] * [ad, 4]=[ac, 12]
+[ae, 24] + [ad, 4] + [ac, 12]=[af, 40]
+[ac, 12] + [ad, 4] + [ad, 4]=[ag, 20]
+[af, 40] / [ag, 20]=[answer, 2]
+
+36)
+Symb question:
+[John,name] rents a car to visit his family. It cost $ [aa, 150] to rent the car. He also had to buy [ab, 8] gallons of gas to fill it up and gas is $ [ac, 3.50] per gallon. The final expense is $ [ad, 50] per mile. If he drove [ae, 320] miles how much did it cost?
+Symb answer:
+The gas cost [ab, 8] * [af, 3.5] = $<< [ab, 8] * [af, 3.5] = [ag, 28] >> [ag, 28]. The mileage expenses cost [ae, 320] * . [ah, 5] = $<< [ae, 320] * . [ah, 5] = [ai, 160] >> [ai, 160]. So in total he paid [aa, 150] + [ag, 28] + [ai, 160] = $<< [aa, 150] + [ag, 28] + [ai, 160] = [answer, 338] >> [answer, 338]. #### [answer, 338]
+Conditions:
+[ab, 8] * [af, 3.5]=[ag, 28]
+[ae, 320] * . [ah, 5]=[ai, 160]
+[aa, 150] + [ag, 28] + [ai, 160]=[answer, 338]
+
+37)
+Symb question:
+[Porche,name] has [aa, 3] hours to get all her homework done. Her math homework takes her [ab, 45] minutes. Her English homework takes her [answer, 30] minutes. Her science homework takes her [ac, 50] minutes. Her history homework takes her [ad, 25] minutes. She also has a special project due the next day. How much time does she have left to get that project done?
+Symb answer:
+She has [ae, 180] minutes to do work because [aa, 3] times [af, 60] equals << [aa, 3] * [af, 60] = [ae, 180] >> [ae, 180]. She has already spent [ag, 150] minutes on homework because [ab, 45] + [answer, 30] + [ac, 50] + [ad, 25] equals << [ab, 45] + [answer, 30] + [ac, 50] + [ad, 25] = [ag, 150] >> [ag, 150]. She has [answer, 30] minutes to finish her project because [ae, 180] - [ag, 150] = << [ae, 180] - [ag, 150] = [answer, 30] >> [answer, 30]. #### [answer, 30]
+Conditions:
+[aa, 3] * [af, 60]=[ae, 180]
+[ab, 45] + [answer, 30] + [ac, 50] + [ad, 25]=[ag, 150]
+[ae, 180] - [ag, 150]=[answer, 30]
+
+38)
+Symb question:
+There are [aa, 40] more buyers in the grocery store today than yesterday. There were half the number of buyers yesterday as there were the day before, and the day before had [ab, 50] buyers. Nobody visited the store on more than [ac, 1] day. What’s the total number of buyers who’ve visited the store in the [ad, 3] days?
+Symb answer:
+If yesterday the number of buyers was half the number of buyers the day before, then yesterday there were [ac, 1] / [ae, 2] * [ab, 50] = << [ac, 1] / [ae, 2] * [ab, 50] = [af, 25] >> [af, 25] buyers. Today has [aa, 40] more buyers than yesterday, so there were [aa, 40] + [af, 25] = << [aa, 40] + [af, 25] = [ag, 65] >> [ag, 65] buyers today. The total number of buyers in the store for the [ad, 3] days will be [ag, 65] + [af, 25] + [ab, 50] = << [ag, 65] + [af, 25] + [ab, 50] = [answer, 140] >> [answer, 140] buyers. #### [answer, 140]
+Conditions:
+[ac, 1] / [ae, 2] * [ab, 50]=[af, 25]
+[aa, 40] + [af, 25]=[ag, 65]
+[ag, 65] + [af, 25] + [ab, 50]=[answer, 140]
+
+39)
+Symb question:
+[John,name] sublets his apartment to [aa, 3] people who each pay $ [ab, 400] per month. He rents the apartment for $ [ac, 900] a month. How much profit does he make in a year?
+Symb answer:
+He gets [aa, 3] * [ab, 400] = $<< [aa, 3] * [ab, 400] = [ad, 1200] >> [ad, 1200] per month. So he gets [ad, 1200] * [ae, 12] = $<< [ad, 1200] * [ae, 12] = [af, 14400] >> [af, 14400] per year. So he pays [ae, 12] * [ac, 900] = $<< [ae, 12] * [ac, 900] = [ag, 10800] >> [ag, 10800] a year. That means his profit is [af, 14400] - [ag, 10800] = $<< [af, 14400] - [ag, 10800] = [answer, 3600] >> [answer, 3600] per year. #### [answer, 3600]
+Conditions:
+[aa, 3] * [ab, 400]=[ad, 1200]
+[ad, 1200] * [ae, 12]=[af, 14400]
+[ae, 12] * [ac, 900]=[ag, 10800]
+[af, 14400] - [ag, 10800]=[answer, 3600]
+
+40)
+Symb question:
+[Ivy,name] drinks [aa, 2.5] liters of water each day. How many bottles of [ab, 2]-liter water should [Ivy,name] buy for her [ac, 4] days consumption?
+Symb answer:
+For [ac, 4] days, [Ivy,name] consumes [aa, 2.5] x [ac, 4] = << [aa, 2.5] * [ac, 4] = [ad, 10] >> [ad, 10] liters of water. So [Ivy,name] should buy [ad, 10] / [ab, 2] = << [ad, 10] / [ab, 2] = [answer, 5] >> [answer, 5] bottles of [ab, 2]-liter water. #### [answer, 5]
+Conditions:
+[aa, 2.5] * [ac, 4]=[ad, 10]
+[ad, 10] / [ab, 2]=[answer, 5]
+
+41)
+Symb question:
+Mr. [John,name] works at a shopping mall and receives a monthly income of $ [aa, 2000], but he spends approximately [ab, 5] % of this amount on public transport to and from the mall in a month. How much will he have left after deducting his monthly transport fare from his income?
+Symb answer:
+[ab, 5] % of $ [aa, 2000] is ( [ab, 5] / [ac, 100] ) * [aa, 2000] = $ << [ab, 5] / [ac, 100] * [aa, 2000] = [ac, 100] >> [ac, 100]. After removing his transport fare, he will have $ [aa, 2000] - [ac, 100] = $ [answer, 1900] left. #### [answer, 1900]
+Conditions:
+[ab, 5] / [ac, 100] * [aa, 2000]=[ac, 100]
+
+42)
+Symb question:
+[Silvia,name] wants to buy a new guitar online. The price of the guitar has a suggested retail price of $ [aa, 1000]. Guitar Center has a special deal of [ab, 15] % off but has a shipping fee of $ [ac, 100]. Sweetwater has a [ad, 10] % off deal with free shipping. How much will she save by buying from the cheaper store compared to the other store?
+Symb answer:
+The discount saved when buying from Guitar Center would be $ [aa, 1000] * [ab, 15] % = $ << [aa, 1000] * [ab, 15] * . [ae, 1] = [af, 150] >> [af, 150]. The total cost when buying from Guitar Center would be $ [aa, 1000] - $ [af, 150] discount + $ [ac, 100] shipping = $ [ag, 950]. The discount when buying from [Sweetwater,name] would be $ [aa, 1000] * [ad, 10] % = $ << [aa, 1000] * [ad, 10] * . [ae, 1] = [ac, 100] >> [ac, 100]. The total cost when buying from [Sweetwater,name] would be $ [aa, 1000] - $ [ac, 100] discount + $ [ah, 0] shipping = $ << [aa, 1000] - [ac, 100] - [ah, 0] = [ai, 900] >> [ai, 900]. Thus, [Silvia,name] would save $ [ag, 950] - $ [ai, 900] = $ << [ag, 950] - [ai, 900] = [answer, 50] >> [answer, 50] when buying from [Sweetwater,name]. #### [answer, 50]
+Conditions:
+[aa, 1000] * [ab, 15] * . [ae, 1]=[af, 150]
+[aa, 1000] * [ad, 10] * . [ae, 1]=[ac, 100]
+[aa, 1000] - [ac, 100] - [ah, 0]=[ai, 900]
+[ag, 950] - [ai, 900]=[answer, 50]
+
+43)
+Symb question:
+[Kathleen,name] saved $ [aa, 21] in June, $ [answer, 46] in July, and $ [ab, 45] in August. Then [Kathleen,name] spent $ [ac, 12] on school supplies and $ [ad, 54] on new clothes. [Kathleen’s,name] aunt said she would give [Kathleen,name] $ [ae, 25] if [Kathleen,name] saves more than $ [af, 125]. How much money does [Kathleen,name] have left?
+Symb answer:
+[Kathleen,name] saved $ [aa, 21] + $ [answer, 46] + $ [ab, 45] = $ << [aa, 21] + [answer, 46] + [ab, 45] = [ag, 112] >> [ag, 112]. [Kathleen,name]’s aunt did not give her any money because $ [ag, 112] is not greater than $ [af, 125]. [Kathleen,name] spent $ [ac, 12] + $ [ad, 54] = $ << [ac, 12] + [ad, 54] = [ah, 66] >> [ah, 66]. [Kathleen,name] has $ [ag, 112] - $ [ah, 66] = $ << [ag, 112] - [ah, 66] = [answer, 46] >> [answer, 46] remaining. #### [answer, 46]
+Conditions:
+[aa, 21] + [answer, 46] + [ab, 45]=[ag, 112]
+[ac, 12] + [ad, 54]=[ah, 66]
+[ag, 112] - [ah, 66]=[answer, 46]
+
+44)
+Symb question:
+[aa, 9] members of the crafts club are making [ab, 2] necklaces each. It takes [ac, 50] beads to make each necklace. How many beads will they need in all?
+Symb answer:
+[ab, 2] necklaces need [ac, 50] x [ab, 2] = << [ac, 50] * [ab, 2] = [ad, 100] >> [ad, 100] beads. So they will need [aa, 9] x [ad, 100] = << [aa, 9] * [ad, 100] = [answer, 900] >> [answer, 900] beads in all. #### [answer, 900]
+Conditions:
+[ac, 50] * [ab, 2]=[ad, 100]
+[aa, 9] * [ad, 100]=[answer, 900]
+
+45)
+Symb question:
+It is raining outside and [Bill,name] puts his empty fish tank in his yard to let it fill with rainwater. It starts raining at [aa, 1] pm. [ab, 2] inches of rainfall in the first hour. For the next [ac, 4] hours, it rains at a rate of [aa, 1] inch per hour. It then rains at [ad, 3] inches per hour for the rest of the day. If the fish tank is [ae, 18] inches tall, at what time will it be filled with rainwater?
+Symb answer:
+At [ab, 2] pm there are [ab, 2] inches of rain in the tank. At [af, 6] pm, there are [ab, 2] + [ac, 4] * [aa, 1] = << [ab, 2] + [ac, 4] * [aa, 1] = [af, 6] >> [af, 6] inches of rain in the tank. That means that there are [ae, 18] - [af, 6] = << [ae, 18] - [af, 6] = [ag, 12] >> [ag, 12] inches of tank that still need to be filled as of [af, 6] pm. It will take [ag, 12] / [ad, 3] = << [ag, 12] / [ad, 3] = [ac, 4] >> [ac, 4] hours to finish filling the tank. The tank will be filled at [af, 6] + [ac, 4] = << [af, 6] + [ac, 4] = [answer, 10] >> [answer, 10] pm. #### [answer, 10]
+Conditions:
+[ab, 2] + [ac, 4] * [aa, 1]=[af, 6]
+[ae, 18] - [af, 6]=[ag, 12]
+[ag, 12] / [ad, 3]=[ac, 4]
+[af, 6] + [ac, 4]=[answer, 10]
+
+46)
+Symb question:
+[Jo,name] reads at a steady pace. Her current book has [aa, 210] pages. Now, she is at page [ab, 90]. An hour ago, she was at page [ac, 60]. For how many hours will she be reading the book?
+Symb answer:
+She reads [ab, 90] - [ac, 60] = << [ab, 90] - [ac, 60] = [ad, 30] >> [ad, 30] pages in an hour. She needs to read [aa, 210] - [ab, 90] = << [aa, 210] - [ab, 90] = [ae, 120] >> [ae, 120] more pages. For an additional [ae, 120] pages, she will need [ae, 120] / [ad, 30] = << [ae, 120] / [ad, 30] = [answer, 4] >> [answer, 4] hours. #### [answer, 4]
+Conditions:
+[ab, 90] - [ac, 60]=[ad, 30]
+[aa, 210] - [ab, 90]=[ae, 120]
+[ae, 120] / [ad, 30]=[answer, 4]
+
+47)
+Symb question:
+A [aa, 40]-bead necklace is made up of [ab, 3] kinds of beads. There are [ac, 7] amethyst beads and [ad, 2] as many amber beads as amethysts. The third beads are turquoise. How many turquoise beads are in the necklace?
+Symb answer:
+There are [ac, 7] * [ad, 2] = << [ac, 7] * [ad, 2] = [ae, 14] >> [ae, 14] amber beads. Thus, there are [aa, 40] - [ac, 7] - [ae, 14] = << [aa, 40] - [ac, 7] - [ae, 14] = [answer, 19] >> [answer, 19] turquoise beads in the necklace. #### [answer, 19]
+Conditions:
+[ac, 7] * [ad, 2]=[ae, 14]
+[aa, 40] - [ac, 7] - [ae, 14]=[answer, 19]
+
+48)
+Symb question:
+[Anna,name] is reading a [aa, 31]-chapter textbook, but she skips all the chapters that are divisible by [ab, 3]. If it takes her [ac, 20] minutes to read each chapter, how many hours does she spend reading total?
+Symb answer:
+First divide [ad, 32] by [ab, 3], ignoring the remainder, to find how many chapters in the book are divisible by [ab, 3]: [aa, 31] / [ab, 3] = [ae, 10.33]..., which means [af, 10] chapters are divisible by [ab, 3]. Then subtract that number from the total number of chapters to find how many chapters she reads: [aa, 31] chapters - [af, 10] chapters = << [aa, 31] - [af, 10] = [ag, 21] >> [ag, 21] chapters. Then multiply the number of chapters by the time to read each chapter to find the total time she spends reading: [ag, 21] chapters * [ac, 20] minutes/chapter = << [ag, 21] * [ac, 20] = [ah, 420] >> [ah, 420] minutes. Then divide that time by the number of minutes per hour to find the total time spent reading in hours: [ah, 420] minutes / [ai, 60] minutes/hour = << [ah, 420] / [ai, 60] = [answer, 7] >> [answer, 7] hours. #### [answer, 7]
+Conditions:
+[aa, 31] - [af, 10]=[ag, 21]
+[ag, 21] * [ac, 20]=[ah, 420]
+[ah, 420] / [ai, 60]=[answer, 7]
+
+49)
+Symb question:
+[Jessica,name] wrote a long letter to her aunt and needed to put stamps on it to mail it. She used [aa, 8] pieces of paper that weigh [ab, 1] / [ac, 5] of an ounce each, and her envelope weighs [answer, 2] / [ac, 5] of an ounce. She needed [ab, 1] stamp per ounce. How many stamps did [Jessica,name] need to mail her letter?
+Symb answer:
+[Jessica,name]’s papers weigh [aa, 8] * [ab, 1] / [ac, 5] = [aa, 8] / [ac, 5] ounces. The papers and the envelope weigh [aa, 8] / [ac, 5] + [answer, 2] / [ac, 5] = [ad, 10] / [ac, 5] = << [aa, 8] / [ac, 5] + [answer, 2] / [ac, 5] = [answer, 2] >> [answer, 2] ounces. Thus, [Jessica,name] needs [answer, 2] * [ab, 1] = << [answer, 2] * [ab, 1] = [answer, 2] >> [answer, 2] stamps to mail her letter. #### [answer, 2]
+Conditions:
+[aa, 8] / [ac, 5] + [answer, 2] / [ac, 5]=[answer, 2]
+[answer, 2] * [ab, 1]=[answer, 2]
+
+50)
+Symb question:
+[Tonya,name] has $ [aa, 150.00] on her credit card. If she leaves any balance on her card at the end of the month, she is charged [ab, 20] % interest. If she makes a $ [ac, 50.00] payment on her card, what will be the new balance?
+Symb answer:
+Her card has a $ [aa, 150.00] balance and she makes a $ [ac, 50.00] payment so the new balance is [ad, 150] - [ae, 50] = $ << [ad, 150] - [ae, 50] = [af, 100.00] >> [af, 100.00]. She didn't pay it off so she is charged [ab, 20] % interest on her $ [af, 100.00] balance so the interest is . [ab, 20] * [ag, 100] = $ [ah, 20.00]. Her balance was $ [af, 100.00] and she was charged $ [ah, 20.00] in interest so her new balance is [ag, 100] + [ab, 20] = $ << [ag, 100] + [ab, 20] = [ai, 120.00] >> [ai, 120.00]. #### [answer, 120]
+Conditions:
+[ad, 150] - [ae, 50]=[af, 100.00]
+[ag, 100] + [ab, 20]=[ai, 120.00]
+
+51)
+Symb question:
+[Marnie,name] makes bead bracelets. She bought [aa,5] bags of [ab,50] beads and [ac,2] bags of [ad,100] beads. If [ab,50] beads are used to make [ae,1] bracelet, how many bracelets will [Marnie,name] be able to make out of the beads she bought?
+Symb answer:
+[Marnie,name] bought [ab,50] x [aa,5] = << [ab,50] * [aa,5] = [af,250] >> [af,250] beads from the [aa,5] bags of [ab,50] beads. She also bought [ad,100] x [ac,2] = << [ad,100] * [ac,2] = [ag,200] >> [ag,200] beads from the [ac,2] bags of [ad,100] beads. She has a total of [af,250] + [ag,200] = << [af,250] + [ag,200] = [ah,450] >> [ah,450] beads. Hence, she will be able to make [ah,450] / [ab,50] = << [ah,450] / [ab,50] = [answer,9] >> [answer,9] bracelets. #### [answer,9]
+Conditions:
+[ab,50] * [aa,5]=[af,250]
+[ad,100] * [ac,2]=[ag,200]
+[af,250] + [ag,200]=[ah,450]
+[ah,450] / [ab,50]=[answer,9]
+
+52)
+Symb question:
+[Berry,name] wants to make sure he reads an average of [aa,50] pages a day. This week he read [ab,43] pages on Sunday, [ac,65] pages on Monday, and [ad,28] pages on Tuesday. He had a soccer game and fell asleep early on Wednesday so he read nothing. On Thursday he read [ae,70] pages, and on Friday he read [af,56] pages. How many pages does he have to read on Saturday to reach his goal?
+Symb answer:
+He has to read [ag,350] pages a week because [ah,7] x [aa,50] = << [ah,7] * [aa,50] = [ag,350] >> [ag,350]. He has read [ai,262] pages because [ab,43] + [ac,65] + [ad,28] + [ae,70] + [af,56] = << [ab,43] + [ac,65] + [ad,28] + [ae,70] + [af,56] = [ai,262] >> [ai,262]. He has to read [answer,88] pages on Saturday because [ag,350] - [ai,262] = << [ag,350] - [ai,262] = [answer,88] >> [answer,88]. #### [answer,88]
+Conditions:
+[ah,7] * [aa,50]=[ag,350]
+[ab,43] + [ac,65] + [ad,28] + [ae,70] + [af,56]=[ai,262]
+[ag,350] - [ai,262]=[answer,88]
+
+53)
+Symb question:
+[Nathan,name] went to the arcade. He played the air hockey game [aa,2] times and the basketball game [ab,4] times. If each game cost [ac,3] tokens, how many tokens did he use?
+Symb answer:
+[Nathan,name] played a total of [aa,2] air hockey + [ab,4] basketball = << [aa,2] + [ab,4] = [ad,6] >> [ad,6] games. This cost him [ad,6] games x [ac,3] tokens each = << [ad,6] * [ac,3] = [answer,18] >> [answer,18] tokens. #### [answer,18]
+Conditions:
+[aa,2] + [ab,4]=[ad,6]
+[ad,6] * [ac,3]=[answer,18]
+
+54)
+Symb question:
+[Eustace,name] is [aa,2] as old as [Milford,name]. In [ab,3] years, he will be [ac,39]. How old will [Milford,name] be?
+Symb answer:
+[Eustace,name]’s current age must be [ac,39] years old – [ab,3] years = << [ac,39] - [ab,3] = [ad,36] >> [ad,36] years old. So [Milford,name]’s current age must be [ad,36] years old / [aa,2] = << [ad,36] / [aa,2] = [ae,18] >> [ae,18] years old. So in [ab,3] years, [Milford,name] will be [ae,18] years old + [ab,3] years = << [ae,18] + [ab,3] = [answer,21] >> [answer,21] years old. #### [answer,21]
+Conditions:
+[ac,39] - [ab,3]=[ad,36]
+[ad,36] / [aa,2]=[ae,18]
+[ae,18] + [ab,3]=[answer,21]
+
+55)
+Symb question:
+[Kwame,name] studied for the history test for [aa,2.5] hours. [Connor,name] studied for [ab,1.5] hours and [Lexia,name] studied for [ac,97] minutes. How many minutes more did [Kwame,name] and [Connor,name] study than [Lexia,name]?
+Symb answer:
+Kwame = [aa,2.5] hours * [ad,60] minutes = << [aa,2.5] * [ad,60] = [ae,150] >> [ae,150] minutes
+Connor = [ab,1.5] hours * [ad,60] minutes = << [ab,1.5] * [ad,60] = [af,90] >> [af,90] minutes
+Kwame + Connor = [ae,150] + [af,90] = [ag,240] minutes
+[ag,240] - [ac,97] = << [ag,240] - [ac,97] = [answer,143] >> [answer,143] minutes
+[Kwame,name] and [Connor,name] studied [answer,143] minutes more than [Lexia,name]. #### [answer,143]
+Conditions:
+[aa,2.5] * [ad,60]=[ae,150]
+[ab,1.5] * [ad,60]=[af,90]
+[ag,240] - [ac,97]=[answer,143]
+
+56)
+Symb question:
+A group of security guards were hired for the night shift at a factory. The [aa,4] guards agreed to a rotating schedule to cover the [ab,9] hours of the night shift. The first guard would take [ac,3] hours since they were still awake, the last guard would wake up early and take [answer,2] hours, and the middle [answer,2] guards would split the remaining hours. How many hours will each middle guard take?
+Symb answer:
+The first and last guard will take [ac,3] + [answer,2] = << [ac,3] + [answer,2] = [ad,5] >> [ad,5] hours of the night shift. There are [ab,9] hours in the night shift, so the middle [answer,2] guards will cover [ab,9] - [ad,5] = << [ab,9] - [ad,5] = [aa,4] >> [aa,4] hours. Each middle guard will take [aa,4] / [answer,2] = << [aa,4] / [answer,2] = [answer,2] >> [answer,2] hours. #### [answer,2]
+Conditions:
+[ac,3] + [answer,2]=[ad,5]
+[ab,9] - [ad,5]=[aa,4]
+[aa,4] / [answer,2]=[answer,2]
+
+57)
+Symb question:
+[Arthur,name] has $[aa,200] in his wallet. He spends [ab,4]-fifths of that. How much does he have left?
+Symb answer:
+[Arthur,name] spent [ab,4] / [ac,5] * $[aa,200] = $ << [ab,4] / [ac,5] * [aa,200] = [ad,160] >> [ad,160]. Thus he has $[aa,200] - $[ad,160] = $ << [aa,200] - [ad,160] = [answer,40] >> [answer,40] remaining. #### [answer,40]
+Conditions:
+[ab,4] / [ac,5] * [aa,200]=[ad,160]
+[aa,200] - [ad,160]=[answer,40]
+
+58)
+Symb question:
+[Inez,name] has $[aa,150]. She spends [ab,1]-half on hockey skates and a certain amount on hockey pads. If [Inez,name] has $[ac,25] remaining, how much did the hockey pads cost, together, in dollars?
+Symb answer:
+She spent [aa,150] / [ad,2] = $<< [aa,150] / [ad,2] = [ae,75] >> [ae,75] on hockey skates. Let X be the amount [Inez,name] spent on hockey pads.
+[aa,150] - [ae,75] - X = [ac,25]
+[ae,75] - X = [ac,25]
+X = << [answer,50] = [answer,50] >> [answer,50]
+The hockey pads cost $<< [answer,50] = [answer,50] >> [answer,50]. #### [answer,50]
+Conditions:
+[aa,150] / [ad,2]=[ae,75]
+[answer,50]=[answer,50]
+[answer,50]=[answer,50]
+
+59)
+Symb question:
+There are [aa,100] students in class and the ratio of boys to girls is [ab,3] : [ac,2]. How many more boys than girls are there?
+Symb answer:
+The class was divided into [ab,3] + [ac,2] = << [ab,3] + [ac,2] = [ad,5] >> [ad,5] parts. So each part is equal to [aa,100] / [ad,5] = << [aa,100] / [ad,5] = [answer,20] >> [answer,20] students. Since there are [ab,3] parts for boys, then there are [answer,20] x [ab,3] = << [ab,3] * [answer,20] = [ae,60] >> [ae,60] boys in class. So there are [aa,100] - [ae,60] = << [aa,100] - [ae,60] = [af,40] >> [af,40] girls in class. Hence, there are [ae,60] - [af,40] = << [ae,60] - [af,40] = [answer,20] >> [answer,20] boys more than girls. #### [answer,20]
+Conditions:
+[ab,3] + [ac,2]=[ad,5]
+[aa,100] / [ad,5]=[answer,20]
+[ab,3] * [answer,20]=[ae,60]
+[aa,100] - [ae,60]=[af,40]
+[ae,60] - [af,40]=[answer,20]
+
+60)
+Symb question:
+[Meena,name] bakes [aa,5] dozen cookies for the school’s bake sale. She sells [ab,2] dozen cookies to her biology teacher, Mr. [Stone,name]. Her friend [Brock,name] buys [ac,7] cookies, and her friend [Katy,name] buys [ab,2] as many as Brock. How many cookies does [Meena,name] have left?
+Symb answer:
+[Meena,name] bakes a total of [aa,5] x [ad,12] = << [aa,5] * [ad,12] = [ae,60] >> [ae,60] cookies. Mr. [Stone,name] buys [ab,2] x [ad,12] = << [ab,2] * [ad,12] = [af,24] >> [af,24] cookies. [Brock,name] buys [ac,7] cookies, so [Katy,name] buys [ab,2] x [ac,7] = << [ac,7] * [ab,2] = [ag,14] >> [ag,14] cookies. [Meena,name] sells a total of [af,24] + [ac,7] + [ag,14] = << [af,24] + [ac,7] + [ag,14] = [ah,45] >> [ah,45] cookies. She has [ae,60] - [ah,45] = << [ae,60] - [ah,45] = [answer,15] >> [answer,15] cookies left. #### [answer,15]
+Conditions:
+[aa,5] * [ad,12]=[ae,60]
+[ab,2] * [ad,12]=[af,24]
+[ac,7] * [ab,2]=[ag,14]
+[af,24] + [ac,7] + [ag,14]=[ah,45]
+[ae,60] - [ah,45]=[answer,15]
+
+61)
+Symb question:
+In a basketball game, [Cyrus,name] made exactly [aa,80] percent of the shots he attempted. He attempted [ab,20] shots. How many times did he miss the shots?
+Symb answer:
+Cyrus made [ab,20] x [aa,80] / [ac,100] = << [ab,20] * [aa,80] / [ac,100] = [ad,16] >> [ad,16] shots. So, he missed [ab,20] - [ad,16] = << [ab,20] - [ad,16] = [answer,4] >> [answer,4] shots. #### [answer,4]
+Conditions:
+[ab,20] * [aa,80] / [ac,100]=[ad,16]
+[ab,20] - [ad,16]=[answer,4]
+
+62)
+Symb question:
+A banana plantation on [Jakies Island,gpe] can produce [aa,10] times as many bananas as a banana plantation on a nearby island. If the banana plantation on the nearby island produced [ab,9000] bananas in a year, what's the total banana produce from the [ac,2] islands that year?
+Symb answer:
+[Jakies Island,gpe] produced [aa,10] times as many bananas as the nearby island, a total of [aa,10] * [ab,9000] = << [aa,10] * [ab,9000] = [ad,90000] >> [ad,90000] bananas. Together, the [ac,2] islands produced [ad,90000] + [ab,9000] = << [ad,90000] + [ab,9000] = [answer,99000] >> [answer,99000] bananas in that year. #### [answer,99000]
+Conditions:
+[aa,10] * [ab,9000]=[ad,90000]
+[ad,90000] + [ab,9000]=[answer,99000]
+
+63)
+Symb question:
+[Emily,name] wants to know how much it rained last week. She sees that it rained [aa,2] inches on Monday morning and [ab,1] more inch later that day. It rained [aa,2] that much on Tuesday. It did not rain on Wednesday but on Thursday it rained [ab,1] inch. The biggest storm was on Friday when the total was equal to Monday through Thursday combined. What was the daily average rain total for the week?
+Symb answer:
+The total rain was [aa,2] inches + [ab,1] inches = << [aa,2] + [ab,1] = [ac,3] >> [ac,3] inches on Monday. The total rain was [aa,2] * [ac,3] inches = << [aa,2] * [ac,3] = [ad,6] >> [ad,6] inches on Tuesday. The total rain was [ae,0] inches + [ab,1] inch = << [ae,0] + [ab,1] = [ab,1] >> [ab,1] inch across Wednesday and Thursday. The total rain was [ac,3] inches + [ad,6] inches + [ab,1] inch = << [ac,3] + [ad,6] + [ab,1] = [af,10] >> [af,10] inches on Friday. There were [ac,3] inches + [ad,6] inches + [ab,1] inch + [af,10] inches = << [ac,3] + [ad,6] + [ab,1] + [af,10] = [ag,20] >> [ag,20] inches total last week. [ag,20] inches / [ah,5] days = << [ag,20] / [ah,5] = [answer,4] >> [answer,4] inches average daily rain. #### [answer,4]
+Conditions:
+[aa,2] + [ab,1]=[ac,3]
+[aa,2] * [ac,3]=[ad,6]
+[ae,0] + [ab,1]=[ab,1]
+[ac,3] + [ad,6] + [ab,1]=[af,10]
+[ac,3] + [ad,6] + [ab,1] + [af,10]=[ag,20]
+[ag,20] / [ah,5]=[answer,4]
+
+64)
+Symb question:
+[Bruce,name] can make [aa,15] batches of pizza dough using a sack of flour. If he uses [ab,5] sacks of flour per day, how many pizza doughs can he make in a week?
+Symb answer:
+He can make [aa,15] x [ab,5] = << [aa,15] * [ab,5] = [ac,75] >> [ac,75] batches of pizza dough per day. Therefore, [Bruce,name] can make [ac,75] x [ad,7] days in a week = << [ac,75] * [ad,7] = [answer,525] >> [answer,525] batches of pizza dough in a week. #### [answer,525]
+Conditions:
+[aa,15] * [ab,5]=[ac,75]
+[ac,75] * [ad,7]=[answer,525]
+
+65)
+Symb question:
+It was [Trevor,name]'s job to collect fresh eggs from the family's [aa,4] chickens every morning. He got [aa,4] eggs from [Gertrude,name] and [ab,3] eggs from [Blanche,name]. [Nancy,name] laid [ac,2] eggs as did [Martha,name]. On the way, he dropped [ac,2] eggs. How many eggs did [Trevor,name] have left?
+Symb answer:
+He collected [aa,4] + [ab,3] + [ac,2] + [ac,2] eggs for a total of << [aa,4] + [ab,3] + [ac,2] + [ac,2] = [ad,11] >> [ad,11] eggs. He dropped [ac,2] eggs so [ad,11] - [ac,2] = << [ad,11] - [ac,2] = [answer,9] >> [answer,9] eggs left. #### [answer,9]
+Conditions:
+[aa,4] + [ab,3] + [ac,2] + [ac,2]=[ad,11]
+[ad,11] - [ac,2]=[answer,9]
+
+66)
+Symb question:
+A total of [aa,42] baby sea turtles hatched and are headed to the ocean. [ab,1]-third of them got swept to the sea by a wave. How many are still on the sand?
+Symb answer:
+This many baby turtles are in the ocean: [aa,42] / [ac,3] = << [aa,42] / [ac,3] = [ad,14] >> [ad,14] turtles. This many baby turtles are still on the sand: [aa,42] - [ad,14] = << [aa,42] - [ad,14] = [answer,28] >> [answer,28] turtles. #### [answer,28]
+Conditions:
+[aa,42] / [ac,3]=[ad,14]
+[aa,42] - [ad,14]=[answer,28]
+
+67)
+Symb question:
+[Maisie,name] and [Donna,name] dropped off flyers for a neighborhood clean‐up day at houses around their neighborhood. [Maisie,name] walked down the shorter left street and dropped off [aa,33] flyers. [Donna,name] took the long right street on her bicycle and dropped off [ab,5] more than [ac,2] as many flyers as [Maisie,name]. How many flyers did [Donna,name] drop off?
+Symb answer:
+[ac,2] as many flyers as [Maisie,name] is [aa,33] * [ac,2] = << [aa,33] * [ac,2] = [ad,66] >> [ad,66] flyers. [Donna,name] dropped off [ab,5] more than that, so she dropped off [ad,66] + [ab,5] = << [ad,66] + [ab,5] = [answer,71] >> [answer,71] flyers. #### [answer,71]
+Conditions:
+[aa,33] * [ac,2]=[ad,66]
+[ad,66] + [ab,5]=[answer,71]
+
+68)
+Symb question:
+[Blanch,name] has [aa,15] slices of pizza in the fridge. During breakfast, she eats [ab,4] slices. At lunch, [Blanch,name] eats [answer,2] slices, then takes [answer,2] slices as a snack. Finally, she consumes [ac,5] slices for dinner. How many slices of pizza are left?
+Symb answer:
+During breakfast, [Blanch,name] has [aa,15] - [ab,4] = << [aa,15] - [ab,4] = [ad,11] >> [ad,11] slices left. At lunch, she still has [ad,11] - [answer,2] = << [ad,11] - [answer,2] = [ae,9] >> [ae,9] slices left. After the snack, there are still [ae,9] - [answer,2] = << [ae,9] - [answer,2] = [af,7] >> [af,7] slices left. Finally after dinner, [Blanch,name] has [af,7] - [ac,5] = << [af,7] - [ac,5] = [answer,2] >> [answer,2] slices left. #### [answer,2]
+Conditions:
+[aa,15] - [ab,4]=[ad,11]
+[ad,11] - [answer,2]=[ae,9]
+[ae,9] - [answer,2]=[af,7]
+[af,7] - [ac,5]=[answer,2]
+
+69)
+Symb question:
+[Pauline,name] will make tacos for dinner. She bought a box of taco shells that cost $[aa,5], [ab,4] bell peppers that cost $[ac,1.5] each, and [ad,2] pounds of meat that cost $[ae,3] per pound. How much did she spend in all?
+Symb answer:
+She spent [ab,4] x $[ac,1.5] = $ << [ab,4] * [ac,1.5] = [af,6] >> [af,6] for the [ab,4] bell peppers. She spent [ad,2] x $[ae,3] = $ << [ad,2] * [ae,3] = [af,6] >> [af,6] for the [ad,2] pounds of meat. So, [Pauline,name] spent $[aa,5] + $[af,6] + $[af,6] = $ << [aa,5] + [af,6] + [af,6] = [answer,17] >> [answer,17] in all. #### [answer,17]
+Conditions:
+[ab,4] * [ac,1.5]=[af,6]
+[ad,2] * [ae,3]=[af,6]
+[aa,5] + [af,6] + [af,6]=[answer,17]
+
+70)
+Symb question:
+[Jana,name] is [aa,5] inches taller than [Kelly,name], and [Kelly,name] is [ab,3] inches shorter than [Jess,name]. If [Jess,name] is [ac,72] inches tall, how tall is [Jana,name]?
+Symb answer:
+[Kelly,name] is [ac,72] - [ab,3] = << [ac,72] - [ab,3] = [ad,69] >> [ad,69] inches tall. [Jana,name] is [ad,69] + [aa,5] = << [ad,69] + [aa,5] = [answer,74] >> [answer,74] inches tall. #### [answer,74]
+Conditions:
+[ac,72] - [ab,3]=[ad,69]
+[ad,69] + [aa,5]=[answer,74]
+
+71)
+Symb question:
+[ Bill , name ] is buying healthcare on an exchange . The normal monthly price of the plan he wants is $ [aa, 500] . The government will pay for part of this cost depending on [ Bill , name ]' s income : [ab, 90] % if he makes less than $ [ac, 10000] , [ad, 50] % if he makes between $ [ae, 10001] and $ [af, 40000] , and [ag, 20] % if he makes more than $ [ah, 50000] . [ Bill , name ] earns $ [ai, 25] / hour and works [aj, 30] hours per week , [ak, 4] weeks per month . How much will [ Bill , name ] spend for health insurance in a year ?
+Symb answer:
+First find how much money [ Bill , name ] makes every week by multiplying his hourly rate by the number of hours he works each week : $ [ai, 25] / hour * [aj, 30] hours / week = $ << [ai, 25] * [aj, 30] = [al, 750] >> [al, 750] / week Then multiply that number by the number of weeks per month to find his monthly earnings : $ [al, 750] / week * [ak, 4] weeks / month = $ << [al, 750] * [ak, 4] = [answer, 3000] >> [answer, 3000] / month Then multiply his monthly earnings by the number of months in a year to find his annual income : $ [answer, 3000] / month * [am, 12] months / year = $ << [answer, 3000] * [am, 12] = [an, 36000] >> [an, 36000] / year . This income means [ Bill , name ] gets a [ad, 50] % monthly healthcare subsidy from the government . Multiply the cost of the premium by [ad, 50] % to find the monthly cost [ Bill , name ] pays : $ [aa, 500] / month * . [ao, 5] = $ << [aa, 500] * . [ao, 5] = [ap, 250] >> [ap, 250] / month Finally , multiply [ Bill , name ]' s monthly cost by the number of months in a year to find his annual cost : $ [ap, 250] / month * [am, 12] months / year = $ << [ap, 250] * [am, 12] = [answer, 3000] >> [answer, 3000] / year #### [answer, 3000]
+Conditions:
+[ai, 25] * [aj, 30]=[al, 750]
+[al, 750] * [ak, 4]=[answer, 3000]
+[answer, 3000] * [am, 12]=[an, 36000]
+[aa, 500] * . [ao, 5]=[ap, 250]
+[ap, 250] * [am, 12]=[answer, 3000]
+
+72)
+Symb question:
+To finish the task assigned to her by the work supervisor in the stipulated deadline , [ Anie , name ] needs [aa, 5] hours extra aside from the normal work schedule each day . If each day her work schedule requires her to be productive for [ab, 10] hours , and the project is estimated to take [ac, 1500] hours , calculate the number of days it would take [ Anie , name ] to finish the job .
+Symb answer:
+Every day , in addition to her [ab, 10] - hour work schedule , [ Anie , name ] needs [aa, 5] extra hours , which means she works [ab, 10] + [aa, 5] = << [ab, 10] + [aa, 5] = [ad, 15] >> [ad, 15] hours each day . If the project is estimated to take [ac, 1500] hours , [ Anie , name ] will need to work for [ac, 1500] / [ad, 15] = << [ac, 1500] / [ad, 15] = [answer, 100] >> [answer, 100] days to complete the project . #### [answer, 100]
+Conditions:
+[ab, 10] + [aa, 5]=[ad, 15]
+[ac, 1500] / [ad, 15]=[answer, 100]
+
+73)
+Symb question:
+[ Donna , name ] worked [aa, 2] hours every morning walking dogs in her neighborhood for $ [ab, 10.00] an hour . [ac, 5] days a week , after school , she worked at a card shop for [aa, 2] hours and made $ [ad, 12.50] an hour . On the weekends , she usually made $ [ab, 10.00] an hour babysitting and was guaranteed [ae, 4] hours every Saturday from her neighbor . How much money did she make over [af, 7] days ?
+Symb answer:
+She makes $ [ab, 10.00] an hour for [aa, 2] hours walking dogs so she makes [ag, 10] * [aa, 2] = $ << [ag, 10] * [aa, 2] = [ah, 20.00] >> [ah, 20.00] every morning Over [af, 7] days she makes [af, 7] * [ai, 20] = $ << [af, 7] * [ai, 20] = [aj, 140.00] >> [aj, 140.00] a week She makes $ [ad, 12.50] for [aa, 2] hours working at a card shop so she makes [ak, 12.5] * [aa, 2] = $ << [ak, 12.5] * [aa, 2] = [al, 25.00] >> [al, 25.00] She works there [ac, 5] days a week so she makes [ac, 5] * [am, 25] = $ << [ac, 5] * [am, 25] = [an, 125.00] >> [an, 125.00] a week She also babysits for [ae, 4] hours making $ [ab, 10.00] an hour for a total of [ae, 4] * [ag, 10] = $ << [ae, 4] * [ag, 10] = [ao, 40.00] >> [ao, 40.00] Over [af, 7] days , she makes [ap, 140] + [aq, 125] + [ar, 40] = $ << [ap, 140] + [aq, 125] + [ar, 40] = [as, 305.00] >> [as, 305.00] #### [answer, 305]
+Conditions:
+[ag, 10] * [aa, 2]=[ah, 20.00]
+[af, 7] * [ai, 20]=[aj, 140.00]
+[ak, 12.5] * [aa, 2]=[al, 25.00]
+[ac, 5] * [am, 25]=[an, 125.00]
+[ae, 4] * [ag, 10]=[ao, 40.00]
+[ap, 140] + [aq, 125] + [ar, 40]=[as, 305.00]
+
+74)
+Symb question:
+[ Wyatt , name ]' s mother gave him $ [aa, 74] to go to the store . [ Wyatt , name ] bought [ab, 5] loaves of bread and [ac, 4] cartons of orange juice . Each loaf of bread cost $ [ab, 5] and each carton of orange juice cost $ [ad, 2] . How much money does [ Wyatt , name ] have left ?
+Symb answer:
+The loaves of bread cost [ab, 5] * $ [ab, 5] = $ << [ab, 5] * [ab, 5] = [ae, 25] >> [ae, 25] . The orange juice cost [ac, 4] * $ [ad, 2] = $ << [ac, 4] * [ad, 2] = [af, 8] >> [af, 8] . [ Wyatt , name ] ’ s total cost is $ [ae, 25] + $ [af, 8] = $ << [ae, 25] + [af, 8] = [ag, 33] >> [ag, 33] . [ Wyatt , name ] is left with the initial $ [aa, 74] - $ [ag, 33] = $ << [aa, 74] - [ag, 33] = [answer, 41] >> [answer, 41] . #### [answer, 41]
+Conditions:
+[ab, 5] * [ab, 5]=[ae, 25]
+[ac, 4] * [ad, 2]=[af, 8]
+[ae, 25] + [af, 8]=[ag, 33]
+[aa, 74] - [ag, 33]=[answer, 41]
+
+75)
+Symb question:
+[ Jason , name ] drives past [aa, 3] convenience stores on his way to work . The distance between the first store and the second store is [ab, 6] miles . The distance between the second store and third store is [ac, 2] / [aa, 3] rds longer than the distance between the first [ac, 2] stores . The distance from his house to the first store and the last store to work is the same , [ad, 4] miles . How long in miles is [ Jason , name ]' s commute to work ?
+Symb answer:
+First find the additional distance between the second store and the third store : [ab, 6] miles * [ac, 2] / [aa, 3] = << [ab, 6] * [ac, 2] / [aa, 3] = [ad, 4] >> [ad, 4] miles Then add that to the distance between the first [ac, 2] stores to find the total distance between the second and third stores : [ad, 4] miles + [ab, 6] miles = << [ad, 4] + [ab, 6] = [ae, 10] >> [ae, 10] miles Then add the distance between the first [ac, 2] stores , the distance from [ Jason , name ]' s house to the first store , and the distance from the last store to work : [ae, 10] miles + [ab, 6] miles + [ad, 4] miles + [ad, 4] miles = << [ae, 10] + [ab, 6] + [ad, 4] + [ad, 4] = [answer, 24] >> [answer, 24] miles #### [answer, 24]
+Conditions:
+[ab, 6] * [ac, 2] / [aa, 3]=[ad, 4]
+[ad, 4] + [ab, 6]=[ae, 10]
+[ae, 10] + [ab, 6] + [ad, 4] + [ad, 4]=[answer, 24]
+
+76)
+Symb question:
+[ Grandpa Lou , name ] enjoys watching movies on the [ Hallmark , name ] channel , where every movie lasts [aa, 90] minutes . If , on Tuesday , he watched several full - length movies on the [ Hallmark , name ] channel for a total of [ab, 4] hours and [ac, 30] minutes , and then on Wednesday he watched on the same channel [ad, 2] as many movies as he did on Tuesday . What is the maximum number of full - length movies [ Grandpa Lou , name ] could have watched during these [ad, 2] days ?
+Symb answer:
+[ab, 4] hours and [ac, 30] minutes is the same as [ab, 4] * [ae, 60] + [ac, 30] = << [ab, 4] * [ae, 60] + [ac, 30] = [af, 270] >> [af, 270] minutes . At [aa, 90] minutes per movie , [ Grandpa Lou , name ] could watch a total of [af, 270] / [aa, 90] = << [af, 270] / [aa, 90] = [ag, 3] >> [ag, 3] entire movies in [ab, 4] hours and [ac, 30] minutes . On Wednesday , he watched [ad, 2] * [ag, 3] = << [ad, 2] * [ag, 3] = [ah, 6] >> [ah, 6] movies . Thus , during these [ad, 2] days , he could have watched as many as [ag, 3] + [ah, 6] = << [ag, 3] + [ah, 6] = [answer, 9] >> [answer, 9] movies . #### [answer, 9]
+Conditions:
+[ab, 4] * [ae, 60] + [ac, 30]=[af, 270]
+[af, 270] / [aa, 90]=[ag, 3]
+[ad, 2] * [ag, 3]=[ah, 6]
+[ag, 3] + [ah, 6]=[answer, 9]
+
+77)
+Symb question:
+[ Lisa , name ] makes breakfast for her family every morning , Monday through Friday . She makes [aa, 2] eggs for each of her [ab, 4] children and [ac, 3] eggs for her husband . Then , she makes [aa, 2] eggs for herself . How many eggs does [ Lisa , name ] cook for her family for breakfast in a year ?
+Symb answer:
+[ Lisa , name ] makes [aa, 2] eggs / child x [ab, 4] children = [ad, 8] eggs for her children . She makes [ac, 3] eggs for her husband + [aa, 2] for herself + [ad, 8] for her children = << [ac, 3] + [aa, 2] + [ad, 8] = [ae, 13] >> [ae, 13] eggs . [ Lisa , name ] makes breakfast [af, 5] days a week for [ag, 52] weeks a year , so [af, 5] * [ag, 52] = << [af, 5] * [ag, 52] = [ah, 260] >> [ah, 260] breakfasts . So [ Lisa , name ] makes [ae, 13] eggs / breakfast x [ah, 260] breakfasts = << [ae, 13] * [ah, 260] = [answer, 3380] >> [answer, 3380] eggs . #### [answer, 3380]
+Conditions:
+[ac, 3] + [aa, 2] + [ad, 8]=[ae, 13]
+[af, 5] * [ag, 52]=[ah, 260]
+[ae, 13] * [ah, 260]=[answer, 3380]
+
+78)
+Symb question:
+If [ Natasha , name ] was going [aa, 10] mph over the speed limit and it took her an hour to arrive at her destination that was [ab, 60] miles away , what was the speed limit ?
+Symb answer:
+[ Natasha , name ] was driving at [ab, 60] miles / [ac, 1] hr = << [ab, 60] / [ac, 1] = [ab, 60] >> [ab, 60] mph The speed limit was [ab, 60] mph - [aa, 10] mph = << [ab, 60] - [aa, 10] = [answer, 50] >> [answer, 50] mph #### [answer, 50]
+Conditions:
+[ab, 60] / [ac, 1]=[ab, 60]
+[ab, 60] - [aa, 10]=[answer, 50]
+
+79)
+Symb question:
+[ Jim , name ] decides he wants to practice for a marathon coming up . He starts off by running [aa, 5] miles every day for [ab, 30] days straight . He then pushes himself to run [ac, 10] miles a day for the next [ab, 30] days . Finally , as marathon day gets closer [ Jim , name ] runs [ad, 20] miles a day for [ab, 30] days straight . How many miles does [ Jim , name ] run in total during the [ae, 90] days ?
+Symb answer:
+[ Jim , name ] runs [aa, 5] miles a day for [ab, 30] days for a total of [aa, 5] * [ab, 30] = << [aa, 5] * [ab, 30] = [af, 150] >> [af, 150] miles . The next month [ Jim , name ] runs [ac, 10] miles a day for [ac, 10] * [ab, 30] = << [ac, 10] * [ab, 30] = [ag, 300] >> [ag, 300] miles . The last month Jim runs [ad, 20] miles a day for [ad, 20] * [ab, 30] = << [ad, 20] * [ab, 30] = [ah, 600] >> [ah, 600] miles . All together , [ Jim , name ] runs [af, 150] + [ag, 300] + [ah, 600] = << [af, 150] + [ag, 300] + [ah, 600] = [answer, 1050] >> [answer, 1050] miles in [ai, 3] months . #### [answer, 1050]
+Conditions:
+[aa, 5] * [ab, 30]=[af, 150]
+[ac, 10] * [ab, 30]=[ag, 300]
+[ad, 20] * [ab, 30]=[ah, 600]
+[af, 150] + [ag, 300] + [ah, 600]=[answer, 1050]
+
+80)
+Symb question:
+[ Tommy , name ] has a flag that is [aa, 5] feet wide and [ab, 4] feet tall . He wants to paint it with a new design . He knows from experience that he needs to paint both sides . Paint costs $ [ac, 2] a quart and a quart is good for [ab, 4] square feet . How much does he spend on paint ?
+Symb answer:
+Each side of the flag is [answer, 20] square feet because [aa, 5] x [ab, 4] = << [aa, 5] * [ab, 4] = [answer, 20] >> [answer, 20] Both side total to [ad, 40] square feet because [ac, 2] x [answer, 20] = << [ac, 2] * [answer, 20] = [ad, 40] >> [ad, 40] He will need [ae, 10] quarts because [ad, 40] / [ab, 4] = << [ad, 40] / [ab, 4] = [ae, 10] >> [ae, 10] This will cost $ [answer, 20] because [ae, 10] x [ac, 2] = << [ae, 10] * [ac, 2] = [answer, 20] >> [answer, 20] #### [answer, 20]
+Conditions:
+[aa, 5] * [ab, 4]=[answer, 20]
+[ac, 2] * [answer, 20]=[ad, 40]
+[ad, 40] / [ab, 4]=[ae, 10]
+[ae, 10] * [ac, 2]=[answer, 20]
+
+81)
+Symb question:
+[Stephanie, name] is planning dinners to cook for the week and needs to figure out how much of each ingredient she should buy at the grocery store . She is making [answer, 3] recipes that call for lower sodium soy sauce as a main ingredient . [aa, 1] bottle of lower sodium soy sauce holds [ab, 16] ounces . There are [ac, 8] ounces in [aa, 1] cup . The first recipe [Stephanie, name] is going to cook calls for [ad, 2] cups of lower sodium soy sauce . The second recipe calls for [aa, 1] cup . The third recipe calls for [answer, 3] cups . If [Stephanie, name] can only buy [aa, 1] whole bottle of soy sauce no matter how much she needs exactly , how many bottles of lower sodium soy sauce should [Stephanie, name] buy to allow for all [answer, 3] recipes ?
+Symb answer:
+First , [Stephanie, name] needs to figure out how many cups of soy sauce she needs total , [ad, 2] cups + [aa, 1] cup + [answer, 3] cups = << [ad, 2] + [aa, 1] + [answer, 3] = [ae, 6] >> [ae, 6] cups total of lower sodium soy sauce . Then [Stephanie, name] needs to figure out how many ounces are in [ae, 6] cups of lower sodium soy sauce , [ae, 6] x [ac, 8] ounces each cup = << [ae, 6] * [ac, 8] = [af, 48] >> [af, 48] total ounces of lower sodium soy sauce . Next Stephanie needs to figure out how many bottles of soy sauce to purchase to get [af, 48] ounces , where [aa, 1] bottle has [ab, 16] ounces , [af, 48] / [ab, 16] = << [af, 48] / [ab, 16] = [answer, 3] >> [answer, 3] bottles of lower sodium soy sauce . #### [answer, 3]
+Conditions:
+[ad, 2] + [aa, 1] + [answer, 3]=[ae, 6]
+[ae, 6] * [ac, 8]=[af, 48]
+[af, 48] / [ab, 16]=[answer, 3]
+
+---------------------------------------
+
+82)
+Symb question:
+A school principal is booking hotel rooms for a class of [aa, 30] students to stay at during an overnight field trip . Each of the hotel ' s rooms has [ab, 2] queen size beds , which can fit [ab, 2] students each , and a pull - out couch , which can fit [ac, 1] student . How many rooms does the principal need to book to fit all of the students in the class ?
+Symb answer:
+Each room can fit [ab, 2] * [ab, 2] + [ac, 1] = << [ab, 2] * [ab, 2] + [ac, 1] = [ad, 5] >> [ad, 5] students . Thus , the principal needs to book [aa, 30] / [ad, 5] = << [aa, 30] / [ad, 5] = [answer, 6] >> [answer, 6] rooms to fit everyone . #### [answer, 6]
+Conditions:
+[ab, 2] * [ab, 2] + [ac, 1]=[ad, 5]
+[aa, 30] / [ad, 5]=[answer, 6]
+
+---------------------------------------
+
+83)
+Symb question:
+[Melody, name] planted sunflowers from [aa, 2] different seed packets . She found that the sunflowers from Packet A were [ab, 20] % taller than the sunflowers from Packet B . If the sunflowers from Packet A were [ac, 192] inches tall , how tall were the sunflowers from Packet B ?
+Symb answer:
+The height of the sunflowers from Packet A is the same as the height of the sunflowers from Packet B + [ab, 20] % . If Y represents the height of the sunflowers from Packet B , Y + [ad, 0.20] Y = the height of sunflowers from Packet A . We know the height of the sunflowers from Packet A is [ac, 192] inches = Y + [ad, 0.20] Y or [ae, 1.2] Y . To figure out Y , we would divide both sides of the equation by [ae, 1.2] , like this : [ac, 192] / [ae, 1.2] = [ae, 1.2] Y / [ae, 1.2] or [answer, 160] = Y . #### [answer, 160]
+Conditions:
+None
+
+---------------------------------------
+
+84)
+Symb question:
+[ Borris , name ] liquor store uses [aa, 90] kilograms of grapes every [ab, 6] months . He is thinking of increasing his production by [ac, 20] percent . How many grapes does he need in a year after increasing his production ?
+Symb answer:
+Borris uses [aa, 90] x [ad, 2] = << [aa, 90] * [ad, 2] = [ae, 180] >> [ae, 180] kilograms of grapes per year . The increase of kilograms of grapes he needed per year is [ae, 180] x [af, 0.20] = << [ae, 180] * [af, 0.20] = [ag, 36] >> [ag, 36] . Therefore , [Borris, name] needs [ae, 180] + [ag, 36] = << [ae, 180] + [ag, 36] = [answer, 216] >> [answer, 216] kilograms of grapes in a year . #### [answer, 216]
+Conditions:
+[aa, 90] * [ad, 2]=[ae, 180]
+[ae, 180] * [af, 0.20]=[ag, 36]
+[ae, 180] + [ag, 36]=[answer, 216]
+
+---------------------------------------
+
+85)
+Symb question:
+Kenny played [aa, 10] hours of basketball last week . He ran for [ab, 2] as long as he played basketball , and he practiced on the trumpet for [ab, 2] as long as he ran . How many hours did [Kenny, name] practice on the trumpet last week ?
+Symb answer:
+[Kenny, name] ran for [aa, 10] * [ab, 2] = << [aa, 10] * [ab, 2] = [ac, 20] >> [ac, 20] hours . [Kenny, name] practiced the trumpet for [ac, 20] * [ab, 2] = << [ac, 20] * [ab, 2] = [answer, 40] >> [answer, 40] hours . #### [answer, 40]
+Conditions:
+[aa, 10] * [ab, 2]=[ac, 20]
+[ac, 20] * [ab, 2]=[answer, 40]
+
+---------------------------------------
+
+86)
+Symb question:
+[Bogan, name] laid out [answer, 10] maggots for her pet beetle . The beetle only ate [aa, 1] and [Bogan, name] had to throw out the rest . Later that day , she tried feeding again and the beetle ate [ab, 3] . If [Bogan, name] served [ac, 20] maggots in total , how many did she attempt to feed the beetle the second time ?
+Symb answer:
+[Bogan, name] served a total of << [ac, 20] = [ac, 20] >> [ac, 20] maggots [Bogan, name] gave the beetles [answer, 10] maggots in the first feeding [Bogan, name] gave the beetles [ac, 20] - [answer, 10] = << [ac, 20] - [answer, 10] = [answer, 10] >> [answer, 10] maggots in the second feeding #### [answer, 10]
+Conditions:
+[ac, 20]=[ac, 20]
+[ac, 20] - [answer, 10]=[answer, 10]
+
+---------------------------------------
+
+87)
+Symb question:
+[ Bill, name ] is a painter who is hired to paint a client ’ s house . The house has [aa, 3] bedrooms , and [ab, 2] as many other rooms as bedrooms . The client wants each bedroom painted a different color , and the other rooms painted white . Each room takes [ab, 2] gallons of paint . Color paint comes in [ac, 1] - gallon paint cans , and white paint comes in [aa, 3] - gallon cans . How many cans of paint will [ Bill, name ] need for the whole house ?
+Symb answer:
+[ Bill, name ] needs [ab, 2] * [aa, 3] = << [ab, 2] * [aa, 3] = [ad, 6] >> [ad, 6] gallons of color paint for the [aa, 3] bedrooms . Thus , he needs [ad, 6] / [ac, 1] = << [ad, 6] / [ac, 1] = [ad, 6] >> [ad, 6] cans of color paint for the bedrooms . There are [ab, 2] * [aa, 3] = << [ab, 2] * [aa, 3] = [ad, 6] >> [ad, 6] other rooms in the house . He needs [ab, 2] * [ad, 6] = << [ab, 2] * [ad, 6] = [ae, 12] >> [ae, 12] gallons of white paint for the other rooms . Thus , he needs [ae, 12] / [aa, 3] = << [ae, 12] / [aa, 3] = [af, 4] >> [af, 4] cans of white paint . In all , [ Bill, name ] needs [af, 4] + [ad, 6] = << [af, 4] + [ad, 6] = [answer, 10] >> [answer, 10] cans of paint for the whole house . #### [answer, 10]
+Conditions:
+[ab, 2] * [aa, 3]=[ad, 6]
+[ad, 6] / [ac, 1]=[ad, 6]
+[ab, 2] * [aa, 3]=[ad, 6]
+[ab, 2] * [ad, 6]=[ae, 12]
+[ae, 12] / [aa, 3]=[af, 4]
+[af, 4] + [ad, 6]=[answer, 10]
+
+---------------------------------------
+
+88)
+Symb question:
+[ Gilbert, name ], the bearded dragon , eats [aa, 4] crickets per week when the temperature averages [ab, 90] degrees F per day , but he eats [ac, 2] as many crickets per week when the temperature averages [ad, 100] degrees F . How many crickets will he eat over [ae, 15] weeks if the temperature averages [ab, 90] degrees F for [af, 80] % of the time , and [ad, 100] degrees F for the remainder of the time ?
+Symb answer:
+It will be [ab, 90] degrees for [af, 80] % of the [ae, 15] weeks , for a total of [ag, 0.8] * [ae, 15] = [ah, 12] weeks . It will be [ad, 100] degrees F for the remainder of the [ae, 15] weeks , or [ae, 15] - [ah, 12] = << [ae, 15] - [ah, 12] = [ai, 3] >> [ai, 3] weeks . During the [ah, 12] weeks when it averages [ab, 90] degrees F , he will eat [aa, 4] crickets per week for a total of [ah, 12] * [aa, 4] = << [ah, 12] * [aa, 4] = [aj, 48] >> [aj, 48] crickets . When it averages [ad, 100] degrees F , he eats [ac, 2] as many crickets per week as when it averages [ab, 90] degrees F per week , for a total of [ac, 2] * [aa, 4] = [ak, 8] crickets per week . During these [ai, 3] weeks , he will eat [ak, 8] * [ai, 3] = << [ak, 8] * [ai, 3] = [al, 24] >> [al, 24] crickets . Therefore , over the [ae, 15] weeks , he will eat a total of [aj, 48] + [al, 24] = << [aj, 48] + [al, 24] = [answer, 72] >> [answer, 72] crickets . #### [answer, 72]
+Conditions:
+[ae, 15] - [ah, 12]=[ai, 3]
+[ah, 12] * [aa, 4]=[aj, 48]
+[ak, 8] * [ai, 3]=[al, 24]
+[aj, 48] + [al, 24]=[answer, 72]
+
+---------------------------------------
+
+89)
+Symb question:
+[ Megan, name ] is making food for a party . She has to spend [aa, 20] minutes preparing [ab, 1] dish in the oven . Each dish can feed [ac, 5] people . She spends [ad, 2] hours preparing as many of these dishes as she can for the party . How many people can she feed with these dishes ?
+Symb answer:
+First , we need to determine the total amount of minutes available for cooking . We do this by performing [ad, 2] * [ae, 60] = << [ad, 2] * [ae, 60] = [af, 120] >> [af, 120] , as there are [ae, 60] minutes in an hour . Now that we know we have [af, 120] minutes , we then divide the preparation time into the total amount of time by performing [af, 120] / [aa, 20] = << [af, 120] / [aa, 20] = [ag, 6] >> [ag, 6] dishes capable of being made . Since each dish can feed [ac, 5] people , we find the total number of people fed by performing [ac, 5] * [ag, 6] = << [ac, 5] * [ag, 6] = [answer, 30] >> [answer, 30] people . #### [answer, 30]
+Conditions:
+[ad, 2] * [ae, 60]=[af, 120]
+[af, 120] / [aa, 20]=[ag, 6]
+[ac, 5] * [ag, 6]=[answer, 30]
+
+---------------------------------------
+
+90)
+Symb question:
+[Kirt, name] has a $ [aa, 6000] monthly salary when he started his job . After a year of working , his salary increased by [ab, 30] % . How much are his total earnings after [ac, 3] years ?
+Symb answer:
+His annual salary for the first year of working is [aa, 6000] x [ad, 12] = $ << [aa, 6000] * [ad, 12] = [ae, 72000] >> [ae, 72000] . [Kirt, name] ' s monthly increase is $ [aa, 6000] x [ab, 30] / [af, 100] = $ << [aa, 6000] * [ab, 30] / [af, 100] = [ag, 1800] >> [ag, 1800] . So , he received $ [aa, 6000] + $ [ag, 1800] = $ << [aa, 6000] + [ag, 1800] = [ah, 7800] >> [ah, 7800] monthly on the second and third year of working . [Kirt, name] ' s annual salary in the second and third year was $ [ah, 7800] x [ad, 12] = $ [ai, 93600] . Thus , his total earning after [ac, 3] years is $ [ae, 72000] + $ [ai, 93600] + $ [ai, 93600] = $ << [ae, 72000] + [ai, 93600] + [ai, 93600] = [answer, 259200] >> [answer, 259200] . #### [answer, 259200]
+Conditions:
+[aa, 6000] * [ad, 12]=[ae, 72000]
+[aa, 6000] * [ab, 30] / [af, 100]=[ag, 1800]
+[aa, 6000] + [ag, 1800]=[ah, 7800]
+[ae, 72000] + [ai, 93600] + [ai, 93600]=[answer, 259200]
+
+---------------------------------------
+
+91)
+Symb question:
+Catriona has [aa, 8] goldfish in her aquarium . She has [ab, 4] more angelfish than goldfish . Also , she has [ac, 2] as many guppies as angelfish . How many fish does [Catriona, name] have in her aquarium ?
+Symb answer:
+Catriona has [aa, 8] + [ab, 4] = << [aa, 8] + [ab, 4] = [ad, 12] >> [ad, 12] angelfish . She also has [ad, 12] x [ac, 2] = << [ad, 12] * [ac, 2] = [ae, 24] >> [ae, 24] guppies . Thus , she has [aa, 8] + [ad, 12] + [ae, 24] = << [aa, 8] + [ad, 12] + [ae, 24] = [answer, 44] >> [answer, 44] fish in her aquarium . #### [answer, 44]
+Conditions:
+[aa, 8] + [ab, 4]=[ad, 12]
+[ad, 12] * [ac, 2]=[ae, 24]
+[aa, 8] + [ad, 12] + [ae, 24]=[answer, 44]
+
+---------------------------------------
+
+92)
+Symb question:
+$ [aa, 240] was divided between [Kelvin, name] and [Samuel, name]. [Samuel, name] received [ab, 3] / [ac, 4] of the money . From his share , [Samuel, name] then spent [ad, 1] / [ae, 5] of the original $ [aa, 240] on drinks . How much does [Samuel, name] have left ?
+Symb answer:
+[Samuel, name] received [ab, 3] / [ac, 4] of $ [aa, 240] , which is $ [aa, 240] * ( [ab, 3] / [ac, 4] ) = $ << [aa, 240] * [ab, 3] / [ac, 4] = [af, 180] >> [af, 180] He spent [ad, 1] / [ae, 5] of $ [aa, 240] , which is $ [aa, 240] * ( [ad, 1] / [ae, 5] ) = $ << [aa, 240] * ( [ad, 1] / [ae, 5] ) = [ag, 48] >> [ag, 48] He spent this amount from his own share , so he has $ [af, 180] - [ag, 48] = $ << [af, 180] - [ag, 48] = [answer, 132] >> [answer, 132] left . #### [answer, 132]
+Conditions:
+[aa, 240] * [ab, 3] / [ac, 4]=[af, 180]
+[aa, 240] * ( [ad, 1] / [ae, 5] )=[ag, 48]
+[af, 180] - [ag, 48]=[answer, 132]
+
+---------------------------------------
+
+93)
+Symb question:
+[ Cody, name ] was reading through his favorite book series . The series was [aa, 54] books in total . If [Cody, name] read [ab, 6] books the first week , and [ac, 3] books the second week and then [ad, 9] books every week after that . How many weeks did it take [Cody, name] to read his series ?
+Symb answer:
+[ Cody, name ] needs to read [aa, 54] books - [ab, 6] books - [ac, 3] books = << [aa, 54] - [ab, 6] - [ac, 3] = [ae, 45] >> [ae, 45] books . [Cody, name] read [ad, 9] books each week after = [ae, 45] books / [ad, 9] books per week = << [ae, 45] / [ad, 9] = [af, 5] >> [af, 5] weeks . [Cody, name] read for [ag, 1] week + [ag, 1] week + [af, 5] weeks = << [ag, 1] + [ag, 1] + [af, 5] = [answer, 7] >> [answer, 7] weeks total . #### [answer, 7]
+Conditions:
+[aa, 54] - [ab, 6] - [ac, 3]=[ae, 45]
+[ae, 45] / [ad, 9]=[af, 5]
+[ag, 1] + [ag, 1] + [af, 5]=[answer, 7]
+
+---------------------------------------
+
+94)
+Symb question:
+[ Dorothy, name ], [Julia, name] and [ Robert, name ] go to the store to buy school supplies . [ Dorothy, name ] buys half as many pens as [Julia,name] . [Julia,name] buys [aa, 3] times as many pens as [ Robert, name ]. [ Robert, name ] buys [ab, 4] pens . If [ac, 1] pen costs $ [ad, 1.50] , how much money did the [aa, 3] friends spend in total on pens ?
+Symb answer:
+[Julia,name] buys [ab, 4] * [aa, 3] = << [ab, 4] * [aa, 3] = [ae, 12] >> [ae, 12] pens [ Dorothy, name ] buys [ae, 12] / [af, 2] = << [ae, 12] / [af, 2] = [ag, 6] >> [ag, 6] pens The total number of pens purchased is [ab, 4] + [ae, 12] + [ag, 6] = << [ab, 4] + [ae, 12] + [ag, 6] = [ah, 22] >> [ah, 22] pens The total cost of the pens is [ah, 22] * $ [ad, 1.50] = $ << [ah, 22] * [ai, 1.5] = [answer, 33] >> [answer, 33] #### [answer, 33]
+Conditions:
+[ab, 4] * [aa, 3]=[ae, 12]
+[ae, 12] / [af, 2]=[ag, 6]
+[ab, 4] + [ae, 12] + [ag, 6]=[ah, 22]
+[ah, 22] * [ai, 1.5]=[answer, 33]
+
+---------------------------------------
+
+95)
+Symb question:
+[ Arthur, name ] has [aa, 3] dogs . They eat an average of [ab, 15] pounds of food a week . [ac, 1] dog eats [ad, 13] pounds a week . The second eats [ae, 2] this . How much does the third dog eat a week ?
+Symb answer:
+The second dog eats [af, 26] pounds a week because [ad, 13] x [ae, 2] = << [ad, 13] * [ae, 2] = [af, 26] >> [af, 26] In total they eat [ag, 45] pounds because [aa, 3] x [ab, 15] = << [aa, 3] * [ab, 15] = [ag, 45] >> [ag, 45] The third dog eats [answer, 6] pounds a week because [ag, 45] - [ad, 13] - [af, 26] = << [ag, 45] - [ad, 13] - [af, 26] = [answer, 6] >> [answer, 6] #### [answer, 6]
+Conditions:
+[ad, 13] * [ae, 2]=[af, 26]
+[aa, 3] * [ab, 15]=[ag, 45]
+[ag, 45] - [ad, 13] - [af, 26]=[answer, 6]
+
+---------------------------------------
+
+96)
+Symb question:
+[Candy, name] baked [aa, 4] trays with [ab, 24] cookies in each tray . She then divided the cookies equally into [ac, 8] packs . How many cookies did Candy place in each pack ?
+Symb answer:
+Cand baked a total of [aa, 4] x [ab, 24] = << [aa, 4] * [ab, 24] = [ad, 96] >> [ad, 96] cookies . Therefore , Candy placed [ad, 96] / [ac, 8] = << [ad, 96] / [ac, 8] = [answer, 12] >> [answer, 12] cookies in each pack . #### [answer, 12]
+Conditions:
+[aa, 4] * [ab, 24]=[ad, 96]
+[ad, 96] / [ac, 8]=[answer, 12]
+
+---------------------------------------
+
+97)
+Symb question:
+[Patrick, name] buys a season pass for each of his sons to visit the local amusement park as often as they want . The passes were $ [aa, 100.00] each . The oldest son went to the park [ab, 35] times over the summer and the youngest went [ac, 15] times . What was the cost per trip to the park ?
+Symb answer:
+[Patrick, name] bought [ad, 2] tickets at $ [aa, 100.00] each for a total of [ad, 2] * [ae, 100] = $ << [ad, 2] * [ae, 100] = [af, 200.00] >> [af, 200.00] The oldest son went [ab, 35] times and the youngest went [ac, 15] times for a total of [ab, 35] + [ac, 15] = << [ab, 35] + [ac, 15] = [ag, 50] >> [ag, 50] trips The tickets cost $ [af, 200.00] and together , the boys went to the park [ag, 50] times so each trip cost [ah, 200] / [ag, 50] = $ << [ah, 200] / [ag, 50] = [ai, 4.00] >> [ai, 4.00] #### [answer, 4]
+Conditions:
+[ad, 2] * [ae, 100]=[af, 200.00]
+[ab, 35] + [ac, 15]=[ag, 50]
+[ah, 200] / [ag, 50]=[ai, 4.00]
+
+---------------------------------------
+
+98)
+Symb question:
+[Peter, name] has [aa, 4] horses . Each [ab, 1] eats [aa, 4] pounds of oats , [ac, 2] a day , and [ad, 3] pounds of grain once a day . How many pounds of food does he need to feed his horses for [ad, 3] days ?
+Symb answer:
+[Peter, name] needs [ac, 2] * [aa, 4] pounds of oats = << [ac, 2] * [aa, 4] = [ae, 8] >> [ae, 8] pounds of oats per horse per day . [Peter, name] will need [ae, 8] pounds oats * [ad, 3] days = << [ae, 8] * [ad, 3] = [af, 24] >> [af, 24] pounds of oats per horse . [Peter, name] will need [af, 24] pounds of oats * [aa, 4] horses = << [af, 24] * [aa, 4] = [ag, 96] >> [ag, 96] pounds of oats total . [Peter, name] needs [ad, 3] pounds of grain * [ad, 3] days per horse = << [ad, 3] * [ad, 3] = [ah, 9] >> [ah, 9] pounds of grain per horse . [Peter, name] will need [ah, 9] pounds of grain * [aa, 4] horses = << [ah, 9] * [aa, 4] = [ai, 36] >> [ai, 36] pounds of grain total . For [ad, 3] days [Peter, name] will need a total of [ag, 96] pounds oats + [ai, 36] pounds grain = << [ag, 96] + [ai, 36] = [answer, 132] >> [answer, 132] pounds total . #### [answer, 132]
+Conditions:
+[ac, 2] * [aa, 4]=[ae, 8]
+[ae, 8] * [ad, 3]=[af, 24]
+[af, 24] * [aa, 4]=[ag, 96]
+[ad, 3] * [ad, 3]=[ah, 9]
+[ah, 9] * [aa, 4]=[ai, 36]
+[ag, 96] + [ai, 36]=[answer, 132]
+
+---------------------------------------
+
+99)
+Symb question:
+In a [aa, 5] - day Fishing competition , [Jackson, name] was able to reel a total of [ab, 6] fishes per day , [Jonah, name] was able to reel [ac, 4] fishes per day and [George, name] was able to reel [ad, 8] fishes per day . How many fishes were they able to catch throughout the competition if they are on the same team ?
+Symb answer:
+[Jackson, name] gets a total of [ab, 6] x [aa, 5] = << [ab, 6] * [aa, 5] = [ae, 30] >> [ae, 30] fishes after the competition . [Jonah, name] gets [ac, 4] x [aa, 5] = << [ac, 4] * [aa, 5] = [af, 20] >> [af, 20] fishes after the competition . And [George, name] was able to get [ad, 8] x [aa, 5] = << [ad, 8] * [aa, 5] = [ag, 40] >> [ag, 40] fishes after the competition . Therefore the total fishes they were able to get for their team is [ae, 30] + [af, 20] + [ag, 40] = << [ae, 30] + [af, 20] + [ag, 40] = [answer, 90] >> [answer, 90] . #### [answer, 90]
+Conditions:
+[ab, 6] * [aa, 5]=[ae, 30]
+[ac, 4] * [aa, 5]=[af, 20]
+[ad, 8] * [aa, 5]=[ag, 40]
+[ae, 30] + [af, 20] + [ag, 40]=[answer, 90]
+
+---------------------------------------
+
+100)
+Symb question:
+[ Hannah, name ] brought $ [aa, 30] to the county fair . She spent half of it on rides and another $ [ab, 5] on dessert . How much , in dollars , is left ?
+Symb answer:
+She spent $ [aa, 30] / [ac, 2] = $<< [aa, 30] / [ac, 2] = [ad, 15] >> [ad, 15] on rides . She spent a total of $ [ad, 15] + [ab, 5] = $<< [ad, 15] + [ab, 5] = [ae, 20] >> [ae, 20] including dessert . She has $ [aa, 30] - [ae, 20] = $<< [aa, 30] - [ae, 20] = [answer, 10] >> [answer, 10] left . #### [answer, 10]
+Conditions:
+[aa, 30] / [ac, 2]=[ad, 15]
+[ad, 15] + [ab, 5]=[ae, 20]
+[aa, 30] - [ae, 20]=[answer, 10]
+
+101)
+Symb question:
+[James, name] decides to replace his car . He sold his $ [aa, 20000] car for [ab, 80] % of its value and then was able to haggle to buy a $ [ac, 30000] sticker price car for [ad, 90] % of its value . How much was he out of pocket ?
+Symb answer:
+He sold his car for [aa, 20000] * . [ae, 8] = $<< [aa, 20000] * . [ae, 8] = [af, 16000] >> [af, 16000] He bought the new car for [ac, 30000] * . [ag, 9] = $<< [ac, 30000] * . [ag, 9] = [ah, 27000] >> [ah, 27000] That means he was out of pocket [ah, 27000] - [af, 16000] = $<< [ah, 27000] - [af, 16000] = [answer, 11000] >> [answer, 11000] #### [answer, 11000]
+Conditions:
+[aa, 20000] * . [ae, 8]=[af, 16000]
+[ac, 30000] * . [ag, 9]=[ah, 27000]
+[ah, 27000] - [af, 16000]=[answer, 11000]
+
+---------------------------------------
+
+102)
+Symb question:
+A private company raised $ [aa, 2500] to be used for charity . They donated [ab, 80] % to a public foundation with [ac, 8] organizations . How much money will each organization receive ?
+Symb answer:
+The public foundation will have $ [aa, 2500] x [ab, 80] / [ad, 100] = $ << [aa, 2500] * [ab, 80] / [ad, 100] = [ae, 2000] >> [ae, 2000] . So , each of the organizations will receive $ [ae, 2000] / [ac, 8] = $ << [ae, 2000] / [ac, 8] = [answer, 250] >> [answer, 250] . #### [answer, 250]
+Conditions:
+[aa, 2500] * [ab, 80] / [ad, 100]=[ae, 2000]
+[ae, 2000] / [ac, 8]=[answer, 250]
+
+---------------------------------------
+
+103)
+Symb question:
+[Pauly, name] is making omelets for his family . There are [answer, 3] dozen eggs , and he plans to use them all . Each omelet requires [aa, 4] eggs . Including himself , there are [answer, 3] people . How many omelets does each person get ?
+Symb answer:
+He has [ab, 36] eggs because [answer, 3] x [ac, 12] = << [answer, 3] * [ac, 12] = [ab, 36] >> [ab, 36] He can make [ad, 9] omelets because [ab, 36] / [aa, 4] = << [ab, 36] / [aa, 4] = [ad, 9] >> [ad, 9] Each person gets [answer, 3] omelets because [ad, 9] / [answer, 3] = << [ad, 9] / [answer, 3] = [answer, 3] >> [answer, 3] #### [answer, 3]
+Conditions:
+[answer, 3] * [ac, 12]=[ab, 36]
+[ab, 36] / [aa, 4]=[ad, 9]
+[ad, 9] / [answer, 3]=[answer, 3]
+
+---------------------------------------
+
+104)
+Symb question:
+[Kaiden, name] and [Adriel, name] were to pick a certain number of apples from their farm . After picking [aa, 400] apples each , they realized they still had to pick some more , so each picked [ab, 3] / [ac, 4] times as many as they had picked earlier . When they checked the pickup truck that was carrying the apples , they found out they still needed to pick [ad, 600] apples each to reach the target number . How many apples were they targeting to pick ?
+Symb answer:
+When they picked [aa, 400] apples each in the first round , they picked a total of [ae, 2] * [aa, 400] = << [ae, 2] * [aa, 400] = [af, 800] >> [af, 800] apples . They picked [ab, 3] / [ac, 4] * [aa, 400] = << [ab, 3] / [ac, 4] * [aa, 400] = [ag, 300] >> [ag, 300] apples each in the second round . The total number of apples they picked in the second round is [ae, 2] * [ag, 300] = << [ae, 2] * [ag, 300] = [ad, 600] >> [ad, 600] The total number of apples they ' d picked so far is [af, 800] + [ad, 600] = << [af, 800] + [ad, 600] = [ah, 1400] >> [ah, 1400] When they checked the pickup truck that was carrying the apples , they found out they still needed to pick [ad, 600] apples each to reach the target number , a total of [ae, 2] * [ad, 600] = << [ae, 2] * [ad, 600] = [ai, 1200] >> [ai, 1200] The target number of apples they had to pick is [ai, 1200] + [ah, 1400] = << [ai, 1200] + [ah, 1400] = [answer, 2600] >> [answer, 2600] #### [answer, 2600]
+Conditions:
+[ae, 2] * [aa, 400]=[af, 800]
+[ab, 3] / [ac, 4] * [aa, 400]=[ag, 300]
+[ae, 2] * [ag, 300]=[ad, 600]
+[af, 800] + [ad, 600]=[ah, 1400]
+[ae, 2] * [ad, 600]=[ai, 1200]
+[ai, 1200] + [ah, 1400]=[answer, 2600]
+
+---------------------------------------
+
+105)
+Symb question:
+[Carrie, name] and her mom go to the mall to buy new clothes for school . [Carrie, name] buys [aa, 4] shirts , [ab, 2] pairs of pants , and [ab, 2] jackets . Each shirt costs $ [ac, 8] . Each pair of pants costs $ [ad, 18] . Each jacket costs $ [ae, 60] . If [Carrie, name] ’ s mom pays for half of the total cost of all the clothes , how much does [Carrie, name] pay for the clothes ?
+Symb answer:
+The total cost of shirts is [aa, 4] * $ [ac, 8] = $ << [aa, 4] * [ac, 8] = [af, 32] >> [af, 32] The total cost of pants is [ab, 2] * $ [ad, 18] = $ << [ab, 2] * [ad, 18] = [ag, 36] >> [ag, 36] The total cost of the jackets is [ab, 2] * $ [ae, 60] = $ << [ab, 2] * [ae, 60] = [ah, 120] >> [ah, 120] The total cost of the clothes is $ [af, 32] + $ [ag, 36] + $ [ah, 120] = $ << [af, 32] + [ag, 36] + [ah, 120] = [ai, 188] >> [ai, 188] Since [Carrie, name] ’ s mom pays for half of the total cost , [Carrie, name] pays $ [ai, 188] / [ab, 2] = $ << [ai, 188] / [ab, 2] = [answer, 94] >> [answer, 94] #### [answer, 94]
+Conditions:
+[aa, 4] * [ac, 8]=[af, 32]
+[ab, 2] * [ad, 18]=[ag, 36]
+[ab, 2] * [ae, 60]=[ah, 120]
+[af, 32] + [ag, 36] + [ah, 120]=[ai, 188]
+[ai, 188] / [ab, 2]=[answer, 94]
+
+---------------------------------------
+
+106)
+Symb question:
+[Val, name] has [aa, 3] times as many dimes as nickels . If she accidentally finds [ab, 2] as many nickels as she has in her older brother ' s treasure box , and takes them for herself , what would be the value of money she has , in dollars , if she had [ac, 20] nickels before finding the new ones from her brother ' s treasure box ?
+Symb answer:
+If [Val, name] currently has [ac, 20] nickels and finds [ab, 2] as many nickels as she has in her older brother ' s treasure box , she will have [ab, 2] * [ac, 20] = [ad, 40] more nickels . The total number of nickels she ' ll have is [ad, 40] + [ac, 20] = << [ad, 40] + [ac, 20] = [ae, 60] >> [ae, 60] Since nickel is worth $ [af, 0.05] , the value of the nickels [Val, name] is having is [ae, 60] * [af, 0.05] = $<< [ae, 60] * [af, 0.05] = [aa, 3] >> [aa, 3] [Val, name] had [aa, 3] times as many dimes as nickels before she found the [ad, 40] new nickels , a total of [aa, 3] * [ac, 20] = << [aa, 3] * [ac, 20] = [ae, 60] >> [ae, 60] dimes Since a dime has a value of $ [ag, 0.10] , the value of the dimes that [Val, name] has is [ae, 60] * [ag, 0.10] = $<< [ae, 60] * [ag, 0.10] = [ah, 6] >> [ah, 6] Together , the value of the dimes and nickels [Val, name] has is worth $ [ah, 6] + [aa, 3] = $<< [ah, 6] + [aa, 3] = [answer, 9] >> [answer, 9] #### [answer, 9]
+Conditions:
+[ad, 40] + [ac, 20]=[ae, 60]
+[ae, 60] * [af, 0.05]=[aa, 3]
+[aa, 3] * [ac, 20]=[ae, 60]
+[ae, 60] * [ag, 0.10]=[ah, 6]
+[ah, 6] + [aa, 3]=[answer, 9]
+
+---------------------------------------
+
+107)
+Symb question:
+[Mary, name] needs school supplies . She has [aa, 6] classes and needs [ab, 1] folder for each class . She also needs [ac, 3] pencils for each class . She decides that for every [aa, 6] pencils she should have [ab, 1] eraser . She also needs a set of paints for an art class . Folders cost $ [aa, 6] , pencils cost $ [ad, 2] , and erasers cost $ [ab, 1] . If she spends $ [ae, 80] , how much did the set of paints cost in dollars ?
+Symb answer:
+[Mary, name] needs [aa, 6] * [ab, 1] = << [aa, 6] * [ab, 1] = [aa, 6] >> [aa, 6] folders . [Mary, name] needs [aa, 6] * [ac, 3] = << [aa, 6] * [ac, 3] = [af, 18] >> [af, 18] pencils . [Mary, name] needs [af, 18] / [aa, 6] = << [af, 18] / [aa, 6] = [ac, 3] >> [ac, 3] erasers . [Mary, name] spends [aa, 6] * [aa, 6] = $ << [aa, 6] * [aa, 6] = [ag, 36] >> [ag, 36] on folders . [Mary, name] spends [af, 18] * [ad, 2] = $ << [af, 18] * [ad, 2] = [ag, 36] >> [ag, 36] on pencils . [Mary, name] spends [ac, 3] * [ab, 1] = $ << [ac, 3] * [ab, 1] = [ac, 3] >> [ac, 3] on erasers . [Mary, name] spends [ag, 36] + [ag, 36] + [ac, 3] = $ << [ag, 36] + [ag, 36] + [ac, 3] = [ah, 75] >> [ah, 75] on all the supplies except the paints . [Mary, name] spends [ae, 80] - [ah, 75] = $ << [ae, 80] - [ah, 75] = [answer, 5] >> [answer, 5] on the paint set . #### [answer, 5]
+Conditions:
+[aa, 6] * [ab, 1]=[aa, 6]
+[aa, 6] * [ac, 3]=[af, 18]
+[af, 18] / [aa, 6]=[ac, 3]
+[aa, 6] * [aa, 6]=[ag, 36]
+[af, 18] * [ad, 2]=[ag, 36]
+[ac, 3] * [ab, 1]=[ac, 3]
+[ag, 36] + [ag, 36] + [ac, 3]=[ah, 75]
+[ae, 80] - [ah, 75]=[answer, 5]
+
+---------------------------------------
+
+108)
+Symb question:
+A watermelon stand sold [aa, 46] watermelons . [ab, 17] customers bought [ac, 1] melon , [ad, 3] customers bought [ad, 3] melons , and the rest bought [ae, 2] melons . How many customers bought [ae, 2] watermelons ?
+Symb answer:
+The customers that bought [ac, 1] watermelon bought [ac, 1] * [ab, 17] = << [ac, 1] * [ab, 17] = [ab, 17] >> [ab, 17] melons . The customers that bought [ad, 3] melons bought [ad, 3] * [ad, 3] = << [ad, 3] * [ad, 3] = [af, 9] >> [af, 9] melons . The stand sold [aa, 46] - [ab, 17] - [af, 9] = << [aa, 46] - [ab, 17] - [af, 9] = [ag, 20] >> [ag, 20] melons to customers who bought [ae, 2] melons . Thus , [ag, 20] / [ae, 2] = << [ag, 20] / [ae, 2] = [answer, 10] >> [answer, 10] customers bought [ae, 2] watermelons . #### [answer, 10]
+Conditions:
+[ac, 1] * [ab, 17]=[ab, 17]
+[ad, 3] * [ad, 3]=[af, 9]
+[aa, 46] - [ab, 17] - [af, 9]=[ag, 20]
+[ag, 20] / [ae, 2]=[answer, 10]
+
+---------------------------------------
+
+109)
+Symb question:
+[Martha, name] has [aa, 11] butterflies in her collection . She has [ab, 2] as many blue butterflies as yellow butterflies . The rest of her butterflies are black . If [Martha, name] has [ac, 5] black butterflies , how many blue butterflies does she have ?
+Symb answer:
+[Martha, name] has [aa, 11] - [ac, 5] = << [aa, 11] - [ac, 5] = [ad, 6] >> [ad, 6] blue and yellow butterflies . [Martha, name] has [ad, 6] / [ae, 3] = << [ad, 6] / [ae, 3] = [ab, 2] >> [ab, 2] yellow butterflies . [Martha, name] has [ab, 2] * [ab, 2] = << [ab, 2] * [ab, 2] = [answer, 4] >> [answer, 4] blue butterflies . #### [answer, 4]
+Conditions:
+[aa, 11] - [ac, 5]=[ad, 6]
+[ad, 6] / [ae, 3]=[ab, 2]
+[ab, 2] * [ab, 2]=[answer, 4]
+
+---------------------------------------
+
+110)
+Symb question:
+[Jill, name] and her brother [Jack, name] are going apple picking . [Jill, name]'s basket can hold [aa, 2] as much as [Jack, name]'s basket when both are full . [Jack, name]'s basket is full when it has [ab, 12] apples , but currently space for [ac, 4] more . How many times could [Jack, name]'s current number of apples fit into [Jill, name]'s basket ?
+Symb answer:
+Since [Jill, name]'s basket can hold [aa, 2] as much as [Jack, name]'s , and [Jack, name]'s is capable of holding [ab, 12] apples in total , this means [Jill, name]'s basket can hold [ab, 12] * [aa, 2] = << [ab, 12] * [aa, 2] = [ad, 24] >> [ad, 24] apples in total . Since [Jack, name] has [ab, 12] - [ac, 4] = << [ab, 12] - [ac, 4] = [ae, 8] >> [ae, 8] apples in his basket , therefore , [Jill, name]'s basket can hold [ad, 24] / [ae, 8] = << [ad, 24] / [ae, 8] = [answer, 3] >> [answer, 3] times the amount of apples [Jack, name] is currently carrying . #### [answer, 3]
+Conditions:
+[ab, 12] * [aa, 2]=[ad, 24]
+[ab, 12] - [ac, 4]=[ae, 8]
+[ad, 24] / [ae, 8]=[answer, 3]
+
+---------------------------------------
+
+111)
+Symb question:
+[Catriona, name] has [aa, 8] goldfish in her aquarium . She has [ab, 4] more angelfish than goldfish . Also , she has [ac, 2] as many guppies as angelfish . How many fish does [Catriona, name] have in her aquarium ?
+Symb answer:
+[Catriona, name] has [aa, 8] + [ab, 4] = << [aa, 8] + [ab, 4] = [ad, 12] >> [ad, 12] angelfish . She also has [ad, 12] x [ac, 2] = << [ad, 12] * [ac, 2] = [ae, 24] >> [ae, 24] guppies . Thus , she has [aa, 8] + [ad, 12] + [ae, 24] = << [aa, 8] + [ad, 12] + [ae, 24] = [answer, 44] >> [answer, 44] fish in her aquarium . #### [answer, 44]
+Conditions:
+[aa, 8] + [ab, 4]=[ad, 12]
+[ad, 12] * [ac, 2]=[ae, 24]
+[aa, 8] + [ad, 12] + [ae, 24]=[answer, 44]
+
+---------------------------------------
+
+112)
+Symb question:
+In [aa, 2] years , [Ophelia, name] will be [ab, 4] times as old as [Lennon, name]. If [Lennon, name] is currently [ac, 8] years old , how old is [Ophelia, name]?
+Symb answer:
+In [aa, 2] years , [Lennon, name] will be [aa, 2] + [ac, 8] = << [aa, 2] + [ac, 8] = [ad, 10] >> [ad, 10] years old . [Ophelia, name] will be [ab, 4] * [ad, 10] = << [ab, 4] * [ad, 10] = [ae, 40] >> [ae, 40] years old in [aa, 2] years . Currently , [Ophelia, name] is [ae, 40] - [aa, 2] = << [ae, 40] - [aa, 2] = [answer, 38] >> [answer, 38] years old . #### [answer, 38]
+Conditions:
+[aa, 2] + [ac, 8]=[ad, 10]
+[ab, 4] * [ad, 10]=[ae, 40]
+[ae, 40] - [aa, 2]=[answer, 38]
+
+---------------------------------------
+
+113)
+Symb question:
+It takes [aa, 7] years for an apple tree to bear fruit . If [Lydia, name] planted a tree when she was [ab, 4] years old and is now [ac, 9] years old , how old would she be when she gets to eat an apple from her tree for the first time ?
+Symb answer:
+The tree has been planted for [ac, 9] - [ab, 4] = << [ac, 9] - [ab, 4] = [ad, 5] >> [ad, 5] years . It will take another [aa, 7] - [ad, 5] = << [aa, 7] - [ad, 5] = [ae, 2] >> [ae, 2] years for it to bear fruit . [Lydia, name] will be [ac, 9] + [ae, 2] = << [ac, 9] + [ae, 2] = [answer, 11] >> [answer, 11] years old #### [answer, 11]
+Conditions:
+[ac, 9] - [ab, 4]=[ad, 5]
+[aa, 7] - [ad, 5]=[ae, 2]
+[ac, 9] + [ae, 2]=[answer, 11]
+
+---------------------------------------
+
+114)
+Symb question:
+[Madeline, name] got [aa, 2] mistakes which are half as many mistakes as [Leo, name] . [Brent, name] scored [ab, 25] and has [ac, 1] more mistake than [Leo, name] . What is [Madeline, name]'s score ?
+Symb answer:
+[Leo, name] got [aa, 2] x [aa, 2] = << [aa, 2] * [aa, 2] = [ad, 4] >> [ad, 4] mistakes . So , [Brent, name] got [ad, 4] + [ac, 1] = << [ad, 4] + [ac, 1] = [ae, 5] >> [ae, 5] mistakes . This means that [ab, 25] + [ae, 5] = << [ab, 25] + [ae, 5] = [af, 30] >> [af, 30] is the perfect score . Hence , Madeline got a score of [af, 30] - [aa, 2] = << [af, 30] - [aa, 2] = [answer, 28] >> [answer, 28] . #### [answer, 28]
+Conditions:
+[aa, 2] * [aa, 2]=[ad, 4]
+[ad, 4] + [ac, 1]=[ae, 5]
+[ab, 25] + [ae, 5]=[af, 30]
+[af, 30] - [aa, 2]=[answer, 28]
+
+---------------------------------------
+
+115)
+Symb question:
+[Owen, name] bred [aa, 21] turtles , and [Johanna, name] has [ab, 5] fewer turtles than [Owen, name] . After [ac, 1] month , [Owen, name] has [ad, 2] as many turtles as before and [Johanna, name] loses half of her turtles and donates the rest to [Owen, name] . How many turtles did [Owen, name] have ?
+Symb answer:
+[Johanna, name] had [aa, 21] turtles - [ab, 5] turtles = << [aa, 21] - [ab, 5] = [ae, 16] >> [ae, 16] turtles . After [ac, 1] month , [Owen, name] was left with [aa, 21] turtles * [ad, 2] = << [aa, 21] * [ad, 2] = [af, 42] >> [af, 42] turtles . After [ac, 1] month , [Johanna, name] was left with [ae, 16] turtles / [ad, 2] = << [ae, 16] / [ad, 2] = [ag, 8] >> [ag, 8] turtles . After [Johanna, name]'s donation , [Owen, name] was left with [af, 42] turtles + [ag, 8] turtles = << [af, 42] + [ag, 8] = [answer, 50] >> [answer, 50] turtles . #### [answer, 50]
+Conditions:
+[aa, 21] - [ab, 5]=[ae, 16]
+[aa, 21] * [ad, 2]=[af, 42]
+[ae, 16] / [ad, 2]=[ag, 8]
+[af, 42] + [ag, 8]=[answer, 50]
+
+---------------------------------------
+
+116)
+Symb question:
+[Michonne, name] is inviting her friends to her birthday party . She invites [aa, 6] of her friends from school and [ab, 12] of her friends from her neighborhood . Each of her friends asks if they can bring [ac, 2] friends along as well . How many people are going to [Michonne, name]’s birthday party ?
+Symb answer:
+[Michonne, name] has invited [aa, 6] + [ab, 12] = << [aa, 6] + [ab, 12] = [ad, 18] >> [ad, 18] friends . These friends have invited another [ad, 18] friends * [ac, 2] = << [ad, 18] * [ac, 2] = [ae, 36] >> [ae, 36] people . So in total , there are [ad, 18] friends + [ae, 36] people = << [ad, 18] + [ae, 36] = [answer, 54] >> [answer, 54] people going to [Michonne, name]’s party . #### [answer, 54]
+Conditions:
+[aa, 6] + [ab, 12]=[ad, 18]
+[ad, 18] * [ac, 2]=[ae, 36]
+[ad, 18] + [ae, 36]=[answer, 54]
+
+---------------------------------------
+
+117)
+Symb question:
+There are [aa, 34] kids signed up to compete in the talent show . There are [ab, 22] more girls than boys signed up to compete . How many girls are signed up to compete in the talent show ?
+Symb answer:
+There are [aa, 34] kids signed up – [ab, 22] we know are girls = [ac, 12] are girls and boys . We can divide the [ac, 12] girls and boys / [ad, 2] = << [ac, 12] / [ad, 2] = [ae, 6] >> [ae, 6] boys are competing and [ae, 6] girls are competing . That means there are [ae, 6] + [ab, 22] = << [ae, 6] + [ab, 22] = [answer, 28] >> [answer, 28] girls competing . #### [answer, 28]
+Conditions:
+[ac, 12] / [ad, 2]=[ae, 6]
+[ae, 6] + [ab, 22]=[answer, 28]
+
+---------------------------------------
+
+118)
+Symb question:
+[Michael, name] has [aa, 4] packs of crayons and wants to buy [ab, 2] more . [ac, 1] pack of crayons costs $ [ad, 2.5] . How much are all the packs of crayons [Michael, name] will have after the purchase worth ?
+Symb answer:
+After buying [ab, 2] more packs , [Michael, name] is going to have [aa, 4] packs + [ab, 2] packs = << [aa, 4] + [ab, 2] = [ae, 6] >> [ae, 6] packs of crayons . In total all packs are going to be worth [ae, 6] packs * $ [ad, 2.5] / pack = $ << [ae, 6] * [ad, 2.5] = [answer, 15] >> [answer, 15] . #### [answer, 15]
+Conditions:
+[aa, 4] + [ab, 2]=[ae, 6]
+[ae, 6] * [ad, 2.5]=[answer, 15]
+
+---------------------------------------
+
+119)
+Symb question:
+[Maria, name] wants to buy a brand new bike . The retail price at the bike shop stands at $ [aa, 600] . She saved $ [ab, 120] toward the purchase . As this was not enough , she asked her mother to give her the remaining amount . Her mother offered her $ [ac, 250] and told her that she needs to earn the rest working during the holidays . How much money must Maria earn to be able to buy the bike she wants ?
+Symb answer:
+[Maria,name] has $ [ab, 120] and received $ [ac, 250] from her mother . So she has [ab, 120] + [ac, 250] = $ << [ab, 120] + [ac, 250] = [ad, 370] >> [ad, 370] . As the price of the bike stands at $ [aa, 600] , Maria needs [aa, 600] – [ad, 370] = $ << [aa, 600] - [ad, 370] = [answer, 230] >> [answer, 230] more to buy the bike . #### [answer, 230]
+Conditions:
+[ab, 120] + [ac, 250]=[ad, 370]
+[aa, 600] - [ad, 370]=[answer, 230]
+
+---------------------------------------
+
+120)
+Symb question:
+The toothpaste in [Anne, name]'s family ' s bathroom contains [aa, 105] grams . [Anne, name]'s dad uses [ab, 3] grams at each brushing , her mom uses [ac, 2] grams , [Anne, name] and her brother use [ad, 1] gram each . Each member of the family brushes their teeth [ab, 3] times a day . How many days will it take for the toothpaste to run out ?
+Symb answer:
+[Anne, name] and her brother use [ad, 1] gram + [ad, 1] gram = << [ad, 1] + [ad, 1] = [ac, 2] >> [ac, 2] grams . [Anne, name]'s dad uses [ab, 3] grams and [Anne, name]'s mom uses [ac, 2] grams so together they use [ac, 2] grams + [ab, 3] grams + [ac, 2] grams = << [ab, 3] + [ac, 2] + [ac, 2] = [ae, 7] >> [ae, 7] grams / wash Each day , the family uses [ae, 7] grams / wash * [ab, 3] washes / day = << [ae, 7] * [ab, 3] = [af, 21] >> [af, 21] grams . Using that amount daily , the toothpaste will last [aa, 105] grams / [af, 21] grams / day = << [aa, 105] / [af, 21] = [answer, 5] >> [answer, 5] days . #### [answer, 5]
+Conditions:
+[ad, 1] + [ad, 1]=[ac, 2]
+[ab, 3] + [ac, 2] + [ac, 2]=[ae, 7]
+[ae, 7] * [ab, 3]=[af, 21]
+[aa, 105] / [af, 21]=[answer, 5]
+
+---------------------------------------
+
+121)
+Symb question:
+[Bill, name] and [Joan, name] both work for a library . [aa, 5] years ago , [Joan, name] had [ab, 3] times as much experience as [Bill, name]. Now she has [ac, 2] as much experience as [Bill, name]. How many years of experience does [Bill, name] have now ?
+Symb answer:
+Let b be [Bill, name]'s years of experience and j be [Joan, name]'s years of experience . We know that j - [aa, 5] = [ab, 3] ( b - [aa, 5] ) and j = [ac, 2] b . Substituting the second equation into the first equation , we get [ac, 2] b - [aa, 5] = [ab, 3] ( b - [aa, 5] ) Multiplying through the parentheses , we get [ac, 2] b - [aa, 5] = [ab, 3] b - [ad, 15] Adding [ad, 15] to both sides , we get [ac, 2] b + [answer, 10] = [ab, 3] b Subtracting [ac, 2] b from both sides , we get [answer, 10] = b #### [answer, 10]
+Conditions:
+None
+
+---------------------------------------
+
+122)
+Symb question:
+The school decided to add [aa, 20] % to the gym budget . In a normal month , they could buy [ab, 15] dodgeballs for $ [ac, 5] each if they spent the entire budget on that . If they only buy softballs instead , which cost $ [ad, 9] each , how many can they buy with the new budget ?
+Symb answer:
+The old budget was $ [ae, 75] because [ab, 15] x [ac, 5] = << [ab, 15] * [ac, 5] = [ae, 75] >> [ae, 75] They are adding $ [ab, 15] to the budget because [ae, 75] x . [af, 2] = << [ae, 75] * . [af, 2] = [ab, 15] >> [ab, 15] The new budget is $ [ag, 90] because [ae, 75] + [ab, 15] = << [ae, 75] + [ab, 15] = [ag, 90] >> [ag, 90] They can buy [answer, 10] softballs on the new budget because [ag, 90] / [ad, 9] = << [ag, 90] / [ad, 9] = [answer, 10] >> [answer, 10] #### [answer, 10]
+Conditions:
+[ab, 15] * [ac, 5]=[ae, 75]
+[ae, 75] * . [af, 2]=[ab, 15]
+[ae, 75] + [ab, 15]=[ag, 90]
+[ag, 90] / [ad, 9]=[answer, 10]
+
+---------------------------------------
+
+123)
+Symb question:
+[John, name] has just turned [aa, 39] . [ab, 3] years ago , he was [ac, 2] as old as [James, name] will be in [ad, 6] years . If [James, name]' older brother is [ae, 4] years older than [James, name] , how old is [James, name]' older brother ?
+Symb answer:
+[John, name] was [aa, 39] - [ab, 3] = << [aa, 39] - [ab, 3] = [af, 36] >> [af, 36] years old [ab, 3] years ago So that means in [ad, 6] years [James, name] will be [af, 36] / [ac, 2] = << [af, 36] / [ac, 2] = [ag, 18] >> [ag, 18] years old So right now [James, name] is [ag, 18] - [ad, 6] = << [ag, 18] - [ad, 6] = [ah, 12] >> [ah, 12] years old So [James, name]'s older brother is [ah, 12] + [ae, 4] = << [ah, 12] + [ae, 4] = [answer, 16] >> [answer, 16] years old #### [answer, 16]
+Conditions:
+[aa, 39] - [ab, 3]=[af, 36]
+[af, 36] / [ac, 2]=[ag, 18]
+[ag, 18] - [ad, 6]=[ah, 12]
+[ah, 12] + [ae, 4]=[answer, 16]
+
+---------------------------------------
+
+124)
+Symb question:
+[Maddie, name] bought [aa, 2] packs of white T - shirts and [ab, 4] packs of blue T - shirts for her basketball team . The white T - shirts come in packs of [ac, 5] , and the blue T - shirts come in packs of [ad, 3] . Each T - shirt cost $ [ad, 3] . How much did [Maddie, name] spend in all ?
+Symb answer:
+The number of white T - shirts is [aa, 2] × [ac, 5] = << [aa, 2] * [ac, 5] = [ae, 10] >> [ae, 10] . The number of blue T - shirts is [ab, 4] × [ad, 3] = << [ab, 4] * [ad, 3] = [af, 12] >> [af, 12] . The total number of T - shirts is [ae, 10] + [af, 12] = << [ae, 10] + [af, 12] = [ag, 22] >> [ag, 22] . [Maddie, name] spent $ [ad, 3] × [ag, 22] = $ << [ad, 3] * [ag, 22] = [answer, 66] >> [answer, 66] in all . #### [answer, 66]
+Conditions:
+[aa, 2] * [ac, 5]=[ae, 10]
+[ab, 4] * [ad, 3]=[af, 12]
+[ae, 10] + [af, 12]=[ag, 22]
+[ad, 3] * [ag, 22]=[answer, 66]
+
+---------------------------------------
+
+125)
+Symb question:
+[Oli, name]'s banana split has [answer, 4] scoops of ice cream while Victoria has [aa, 2] more scoops of ice cream than [Oli, name]'s . How many more scoops of ice cream does [Victoria, name] have than [Oli, name]?
+Symb answer:
+[Victoria,name] has [answer, 4] x [aa, 2] = << [answer, 4] * [aa, 2] = [ab, 8] >> [ab, 8] scoops of ice cream . Therefore , [Victoria, name] has [ab, 8] - [answer, 4] = << [ab, 8] - [answer, 4] = [answer, 4] >> [answer, 4] more scoops of ice cream than [Oli, name] . #### [answer, 4]
+Conditions:
+[answer, 4] * [aa, 2]=[ab, 8]
+[ab, 8] - [answer, 4]=[answer, 4]

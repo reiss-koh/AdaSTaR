@@ -1,0 +1,32 @@
+{
+    "epochs": 1,
+    "grad_accumulation": 1,
+    "gen_length": 256,
+    "batch_size": 2,
+    "test_batch_size": 8,
+    "lr": 1e-05,
+    "weight_decay": 0.01,
+    "warm_up_steps": 100,
+    "model_dir": "checkpoints/",
+    "log_divisor": 100,
+    "save_divisor": 5,
+    "exp_name": "testrun",
+    "optimizer": "Adam",
+    "scheduler": "linear",
+    "precision": "bf16",
+    "model_name": "google/gemma-7b",
+    "max_length": 256,
+    "n_shot": 8,
+    "self_consistency": 0,
+    "delete_model_after_loading": true,
+    "accumulate": false,
+    "task": "svamp",
+    "lora":{
+    "lora_rank": 32,
+    "lora_alpha": 64,
+    "lora_dropout": 0.1
+    },
+    "inference_temp": 1.0,
+    "no_hint": true,
+    "base_model_path" : null
+}

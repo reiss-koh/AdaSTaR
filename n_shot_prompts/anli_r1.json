@@ -1,0 +1,36 @@
+{
+    "n_shot_prompts": [
+        {
+            "prompt": "Q: Ransom is a 1996 American crime thriller film directed by Ron Howard and written by Richard Price and Alexander Ignon. The film stars Mel Gibson, Rene Russo, Gary Sinise, Brawley Nolte, Delroy Lindo, Liev Schreiber, Evan Handler, Donnie Wahlberg, and Lili Taylor. Gibson was nominated for a Golden Globe Award for Best Actor. Mel Gibson won a Golden Globe Award for Best Actor.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction. \nA: It just says he was nominated, it didn't say whether or not he actually won the award. The system probably just assumed he won.  The answer is  1.",
+            "prompt_num": 1
+        },
+        {
+            "prompt": "Q: Olivier Rochus (] ; born 18 January 1981) is a retired Belgian tennis player. He has won two singles titles in his career and in 2004 won the French Open doubles title partnering fellow Belgian Xavier Malisse. Rochus' career-high singles ranking is World No. 24. Olivier Rochus was 23 when he won the French Open.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: 2004-1981=23. The answer is 0.",
+            "prompt_num": 2
+        },
+        {
+            "prompt": "Q: The Special Operations Command (Danish: \"Specialoperationskommandoen\" ) (SOKOM) is a command of Danish Defence part of the Defence Command. SOKOM was established in 2014 to unite Jaeger Corps (Danish: \"J\u00e6gerkorpset\" ) and Frogman Corps (Danish: \"Fr\u00f8mandskorpset\" ) under one command and is based at Aalborg Air Base. SOKOM was created after 2000.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction. \nA: Yes SOKOM was made in 2014. The answer is 0.",
+            "prompt_num": 3
+        },
+        {
+            "prompt": "Q: Ronald Ray \"Ron\" Cyrus (July 10, 1935 \u2013 February 28, 2006) was an American Democratic politician and public servant in Greenup County, Kentucky. He was the father of American country music singer/actor Billy Ray Cyrus and the paternal grandfather of Trace Cyrus, Miley Cyrus and Noah Cyrus. Ronald Ray \"Ron\" Cyrus was a politician with communistic beliefs.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: We do not know what his beliefs are. The answer is 1.",
+            "prompt_num": 4
+        },
+        {
+            "prompt": "Q: howtime is a 2002 American buddy cop action comedy film directed by Tom Dey. The film stars Robert De Niro and Eddie Murphy in the lead roles alongside Rene Russo, William Shatner, Pedro Damian and De Niro's real life adopted daughter Drena De Niro. The film was released in the United States on March 15, 2002. Showtime was released before 9/11.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: It was released after September 11, 2001. The answer is 2.",
+            "prompt_num": 5
+        },
+        {
+            "prompt": "Q: Mary Cecilia Robinson (born 22 May 1924 in Canterbury, Kent) is a former cricketer who played 14 Test matches for the England women's cricket team between 1948/49 and 1963. A right hand opening batsman she scored two Test centuries against Australia. Mary Cecilia has won 18 test matches for England women's cricket team between 1948 and 1963.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: She only played 14 test matches so could not have won 18. The answer is 2.",
+            "prompt_num": 6
+        },
+        {
+            "prompt": "Q: King of the Corner is a 2004 film featured at the Newport Film Festival. It stars Peter Riegert and Isabella Rossellini, and includes Eric Bogosian, Eli Wallach, Beverly D'Angelo and Rita Moreno. It was released in 2004. Peter Riegert also co-wrote and directed the film. The film King of the Corner has competed for awards.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: Peter Riegert has directed films that have been featured at festivals. The answer is 0.",
+            "prompt_num": 7
+        },
+        {
+            "prompt": "Q: Ailes Gilmour (January 27, 1912 - April 16, 1993) was a Japanese American dancer who was one of the young pioneers of the American Modern Dance movement of the 1930s. She was one of the first members of Martha Graham's dance company. Ailes' older brother was sculptor Isamu Noguchi. The American Modern Dance movement had its first pioneers in the 1940's.\nOptions:\n(0). entailment.\n(1). neutral.\n(2). contradiction.\nA: She was a pioneer in the 1930's, prior to the 1940's. The answer is 2.",
+            "prompt_num": 8
+        }
+    ]
+}

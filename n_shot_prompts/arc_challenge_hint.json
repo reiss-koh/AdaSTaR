@@ -1,0 +1,28 @@
+{
+    "n_shot_prompts": [
+        {
+            "prompt": "Q: Which process in the carbon cycle takes the longest to complete? (D)\nOptions:\n(A). emission of waste.\n(B). respiration in animals.\n(C). photosynthesis in plants.\n(D). formation of fossil fuels.\nA: The process that takes the longest time to complete is the formation of fossil fuels, which happens over millions of years. So the answer is (D).",
+            "prompt_num": 1
+        },
+        {
+            "prompt": "Q: Students studied the revolution of Earth around the Sun. During which month will Florida have the most sunlight energy available? (B)\nOptions:\n(A). March.\n(B). June.\n(C). September.\n(D). December\nA: Florida is closer to the sun during June, so it will have the most sunlight energy during that month. So the answer is (B).",
+            "prompt_num": 2
+        },
+        {
+            "prompt": "Q: George wants to warm his hands quickly by rubbing them. Which skin surface will produce the most heat? (A)\nOptions:\n(A). dry palms.\n(B). wet palms.\n(C). palms covered with oil.\n(D). palms covered with lotion.\nA: Dry surfaces will more likely cause more friction via rubbing than other smoother surfaces, hence dry palms will produce the most heat. The answer is (A).",
+            "prompt_num": 3
+        },
+        {
+            "prompt": "Q: Which factor will most likely cause a person to develop a fever? (B)\nOptions:\n(A). a leg muscle relaxing after exercise.\n(B). a bacterial population in the bloodstream.\n(C). several viral particles on the skin.\n(D). carbohydrates being digested in the stomach.\nA: Option (b), bacterial population is the most likely cause for a person developing fever. The answer is (B).",
+            "prompt_num": 4
+        },
+        {
+            "prompt": "Q: Which change in the state of water particles causes the particles to become arranged in a fixed position? (C)\nOptions:\n(A). boiling.\n(B). melting.\n(C). freezing.\n(D). evaporating.\nA: When water is freezed, the particles are arranged in a fixed position; the particles are still moving for all other options. The answer is (C).",
+            "prompt_num": 5
+        },
+        {
+            "prompt": "Q: When a switch is used in an electrical circuit, the switch can (D)\nOptions:\n(A). cause the charge to build.\n(B). increase and decrease the voltage.\n(C). cause the current to change direction.\n(D). stop and start the flow of current.\nA: The function of a switch is to start and stop the flow of a current. The answer is (D).",
+            "prompt_num": 6
+        }
+    ]
+}

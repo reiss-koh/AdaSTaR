@@ -1,0 +1,84 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "c_ladder",
+  "dataset_size": 15461667,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/causal-nlp/CLadder@18d684e444ed07cc57ae0f3a91ee983a79b8119a/data/full_v1.5_default.csv": {
+      "num_bytes": 8851980,
+      "checksum": null
+    },
+    "hf://datasets/causal-nlp/CLadder@18d684e444ed07cc57ae0f3a91ee983a79b8119a/data/full_v1.csv": {
+      "num_bytes": 5929975,
+      "checksum": null
+    }
+  },
+  "download_size": 14781955,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "prompt": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rung": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "query_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "graph_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "story_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question_property": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "formal_form": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 30243622,
+  "splits": {
+    "full_v1.5_default": {
+      "name": "full_v1.5_default",
+      "num_bytes": 9135235,
+      "num_examples": 10112,
+      "dataset_name": "c_ladder"
+    },
+    "full_v1": {
+      "name": "full_v1",
+      "num_bytes": 6326432,
+      "num_examples": 10112,
+      "dataset_name": "c_ladder"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

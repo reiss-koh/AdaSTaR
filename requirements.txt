@@ -1,0 +1,16 @@
+accelerate
+transformers
+torch
+jsonlines
+peft
+ftfy
+lm_dataformat
+datasets
+trl
+huggingface_hub
+bitsandbytes
+optimum
+uuid
+opencv-python-headless
+gdown
+flash-attn
